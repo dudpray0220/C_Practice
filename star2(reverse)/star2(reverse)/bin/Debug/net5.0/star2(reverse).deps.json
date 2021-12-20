@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "star2(reverse)/1.0.0": {
+        "runtime": {
+          "star2(reverse).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "star2(reverse)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,4 +1,0 @@
-﻿빌드 시작...
-1>------ 빌드 시작: 프로젝트: FirstProgram, 구성: Debug Any CPU ------
-1>FirstProgram -> C:\Users\byh\source\repos\FirstProgram\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
-========== 빌드: 성공 1, 실패 0, 최신 0, 생략 0 ==========

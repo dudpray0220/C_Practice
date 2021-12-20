@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printHangle", "printHangle\printHangle.csproj", "{36FDA83E-527A-4726-9634-D86811989703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FDA83E-527A-4726-9634-D86811989703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FDA83E-527A-4726-9634-D86811989703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FDA83E-527A-4726-9634-D86811989703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FDA83E-527A-4726-9634-D86811989703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F05B8EF-E5A3-4E65-BE56-1CFC19B9CD5A}
+	EndGlobalSection
+EndGlobal

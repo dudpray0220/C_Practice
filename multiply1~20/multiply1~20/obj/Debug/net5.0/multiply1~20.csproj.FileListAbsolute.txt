@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\bin\Debug\net5.0\multiply1~20.exe
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\bin\Debug\net5.0\multiply1~20.deps.json
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\bin\Debug\net5.0\multiply1~20.runtimeconfig.json
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\bin\Debug\net5.0\multiply1~20.runtimeconfig.dev.json
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\bin\Debug\net5.0\multiply1~20.dll
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\bin\Debug\net5.0\ref\multiply1~20.dll
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\bin\Debug\net5.0\multiply1~20.pdb
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\multiply1~20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\multiply1~20.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\multiply1~20.AssemblyInfo.cs
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\multiply1~20.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\multiply1~20.dll
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\ref\multiply1~20.dll
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\multiply1~20.pdb
+C:\Users\byh\source\repos\multiply1~20\multiply1~20\obj\Debug\net5.0\multiply1~20.genruntimeconfig.cache

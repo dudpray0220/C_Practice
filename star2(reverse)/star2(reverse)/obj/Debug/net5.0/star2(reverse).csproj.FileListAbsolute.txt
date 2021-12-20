@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\bin\Debug\net5.0\star2(reverse).exe
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\bin\Debug\net5.0\star2(reverse).deps.json
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\bin\Debug\net5.0\star2(reverse).runtimeconfig.json
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\bin\Debug\net5.0\star2(reverse).runtimeconfig.dev.json
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\bin\Debug\net5.0\star2(reverse).dll
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\bin\Debug\net5.0\ref\star2(reverse).dll
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\bin\Debug\net5.0\star2(reverse).pdb
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\star2(reverse).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\star2(reverse).AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\star2(reverse).AssemblyInfo.cs
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\star2(reverse).csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\star2(reverse).dll
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\ref\star2(reverse).dll
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\star2(reverse).pdb
+C:\Users\byh\source\repos\star2(reverse)\star2(reverse)\obj\Debug\net5.0\star2(reverse).genruntimeconfig.cache

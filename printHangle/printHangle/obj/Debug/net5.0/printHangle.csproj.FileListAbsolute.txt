@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\printHangle\printHangle\bin\Debug\net5.0\printHangle.exe
+C:\Users\byh\source\repos\printHangle\printHangle\bin\Debug\net5.0\printHangle.deps.json
+C:\Users\byh\source\repos\printHangle\printHangle\bin\Debug\net5.0\printHangle.runtimeconfig.json
+C:\Users\byh\source\repos\printHangle\printHangle\bin\Debug\net5.0\printHangle.runtimeconfig.dev.json
+C:\Users\byh\source\repos\printHangle\printHangle\bin\Debug\net5.0\printHangle.dll
+C:\Users\byh\source\repos\printHangle\printHangle\bin\Debug\net5.0\ref\printHangle.dll
+C:\Users\byh\source\repos\printHangle\printHangle\bin\Debug\net5.0\printHangle.pdb
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\printHangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\printHangle.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\printHangle.AssemblyInfo.cs
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\printHangle.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\printHangle.dll
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\ref\printHangle.dll
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\printHangle.pdb
+C:\Users\byh\source\repos\printHangle\printHangle\obj\Debug\net5.0\printHangle.genruntimeconfig.cache
