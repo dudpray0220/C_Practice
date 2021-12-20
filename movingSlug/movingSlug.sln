@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movingSnail", "movingSlug\movingSnail.csproj", "{A46C156A-1361-47EB-B5B9-FAFBD6F1373B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46C156A-1361-47EB-B5B9-FAFBD6F1373B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46C156A-1361-47EB-B5B9-FAFBD6F1373B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46C156A-1361-47EB-B5B9-FAFBD6F1373B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46C156A-1361-47EB-B5B9-FAFBD6F1373B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F437F52-333B-4D20-8090-96260AE2C92D}
+	EndGlobalSection
+EndGlobal

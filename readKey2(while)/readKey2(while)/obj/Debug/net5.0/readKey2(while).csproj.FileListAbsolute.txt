@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\bin\Debug\net5.0\readKey2(while).exe
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\bin\Debug\net5.0\readKey2(while).deps.json
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\bin\Debug\net5.0\readKey2(while).runtimeconfig.json
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\bin\Debug\net5.0\readKey2(while).runtimeconfig.dev.json
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\bin\Debug\net5.0\readKey2(while).dll
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\bin\Debug\net5.0\ref\readKey2(while).dll
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\bin\Debug\net5.0\readKey2(while).pdb
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).AssemblyInfo.cs
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).dll
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\ref\readKey2(while).dll
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).pdb
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).genruntimeconfig.cache

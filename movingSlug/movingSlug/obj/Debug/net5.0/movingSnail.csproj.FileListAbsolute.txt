@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\movingSlug\movingSlug\bin\Debug\net5.0\movingSnail.exe
+C:\Users\byh\source\repos\movingSlug\movingSlug\bin\Debug\net5.0\movingSnail.deps.json
+C:\Users\byh\source\repos\movingSlug\movingSlug\bin\Debug\net5.0\movingSnail.runtimeconfig.json
+C:\Users\byh\source\repos\movingSlug\movingSlug\bin\Debug\net5.0\movingSnail.runtimeconfig.dev.json
+C:\Users\byh\source\repos\movingSlug\movingSlug\bin\Debug\net5.0\movingSnail.dll
+C:\Users\byh\source\repos\movingSlug\movingSlug\bin\Debug\net5.0\ref\movingSnail.dll
+C:\Users\byh\source\repos\movingSlug\movingSlug\bin\Debug\net5.0\movingSnail.pdb
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\movingSnail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\movingSnail.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\movingSnail.AssemblyInfo.cs
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\movingSnail.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\movingSnail.dll
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\ref\movingSnail.dll
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\movingSnail.pdb
+C:\Users\byh\source\repos\movingSlug\movingSlug\obj\Debug\net5.0\movingSnail.genruntimeconfig.cache

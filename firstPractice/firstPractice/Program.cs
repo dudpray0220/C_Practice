@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace firstPractice
 {
@@ -6,13 +7,11 @@ namespace firstPractice
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
-            {
-                if (i % 2 != 0)
-                {
-                    Console.WriteLine(i);
-                }
-            }    
+            Console.WriteLine("first");
+            Thread.Sleep(1000);
+            Console.WriteLine("second");
+            Thread.Sleep(1000);
+            Console.WriteLine("third");
         }
     }
 }
