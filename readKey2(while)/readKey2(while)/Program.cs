@@ -45,11 +45,11 @@ namespace readKey2_while_
                         Console.WriteLine("LeftArrow");
                         break;
 
-                    case ConsoleKey.D:
+                    case ConsoleKey.D: // d키 누르면 종료
                         state = false;
                         break;
 
-                    default:
+                    default: // 그 외 다른키 누르면 초키화 후 hi 출력
                         x = 0;
                         y = 0;
                         Console.SetCursorPosition(x, y);
