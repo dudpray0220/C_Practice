@@ -13,3 +13,4 @@ C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readK
 C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\ref\readKey2(while).dll
 C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).pdb
 C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).genruntimeconfig.cache
+C:\Users\byh\source\repos\readKey2(while)\readKey2(while)\obj\Debug\net5.0\readKey2(while).csproj.AssemblyReference.cache

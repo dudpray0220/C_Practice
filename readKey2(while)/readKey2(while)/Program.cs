@@ -49,7 +49,7 @@ namespace readKey2_while_
                         state = false;
                         break;
 
-                    default: // 그 외 다른키 누르면 초키화 후 hi 출력
+                    default: // 그 외 다른키 누르면 초기화 후 hi 출력
                         x = 0;
                         y = 0;
                         Console.SetCursorPosition(x, y);
