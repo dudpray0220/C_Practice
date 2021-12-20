@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\inchToCm\inchToCm\bin\Debug\net5.0\inchToCm.exe
+C:\Users\byh\source\repos\inchToCm\inchToCm\bin\Debug\net5.0\inchToCm.deps.json
+C:\Users\byh\source\repos\inchToCm\inchToCm\bin\Debug\net5.0\inchToCm.runtimeconfig.json
+C:\Users\byh\source\repos\inchToCm\inchToCm\bin\Debug\net5.0\inchToCm.runtimeconfig.dev.json
+C:\Users\byh\source\repos\inchToCm\inchToCm\bin\Debug\net5.0\inchToCm.dll
+C:\Users\byh\source\repos\inchToCm\inchToCm\bin\Debug\net5.0\ref\inchToCm.dll
+C:\Users\byh\source\repos\inchToCm\inchToCm\bin\Debug\net5.0\inchToCm.pdb
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\inchToCm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\inchToCm.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\inchToCm.AssemblyInfo.cs
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\inchToCm.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\inchToCm.dll
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\ref\inchToCm.dll
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\inchToCm.pdb
+C:\Users\byh\source\repos\inchToCm\inchToCm\obj\Debug\net5.0\inchToCm.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\circleR\circleR\bin\Debug\net5.0\circleR.exe
+C:\Users\byh\source\repos\circleR\circleR\bin\Debug\net5.0\circleR.deps.json
+C:\Users\byh\source\repos\circleR\circleR\bin\Debug\net5.0\circleR.runtimeconfig.json
+C:\Users\byh\source\repos\circleR\circleR\bin\Debug\net5.0\circleR.runtimeconfig.dev.json
+C:\Users\byh\source\repos\circleR\circleR\bin\Debug\net5.0\circleR.dll
+C:\Users\byh\source\repos\circleR\circleR\bin\Debug\net5.0\ref\circleR.dll
+C:\Users\byh\source\repos\circleR\circleR\bin\Debug\net5.0\circleR.pdb
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.AssemblyInfo.cs
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.dll
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\ref\circleR.dll
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.pdb
+C:\Users\byh\source\repos\circleR\circleR\obj\Debug\net5.0\circleR.genruntimeconfig.cache
