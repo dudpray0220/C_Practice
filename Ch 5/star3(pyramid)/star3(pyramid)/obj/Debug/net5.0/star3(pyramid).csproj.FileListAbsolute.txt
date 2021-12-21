@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\bin\Debug\net5.0\star3(pyramid).exe
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\bin\Debug\net5.0\star3(pyramid).deps.json
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\bin\Debug\net5.0\star3(pyramid).runtimeconfig.json
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\bin\Debug\net5.0\star3(pyramid).runtimeconfig.dev.json
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\bin\Debug\net5.0\star3(pyramid).dll
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\bin\Debug\net5.0\ref\star3(pyramid).dll
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\bin\Debug\net5.0\star3(pyramid).pdb
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).AssemblyInfo.cs
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).dll
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\ref\star3(pyramid).dll
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).pdb
+C:\Users\byh\source\repos\star3(pyramid)\star3(pyramid)\obj\Debug\net5.0\star3(pyramid).genruntimeconfig.cache

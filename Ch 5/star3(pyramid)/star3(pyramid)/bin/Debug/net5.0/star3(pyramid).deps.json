@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "star3(pyramid)/1.0.0": {
+        "runtime": {
+          "star3(pyramid).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "star3(pyramid)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

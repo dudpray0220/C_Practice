@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\printMinMax\printMinMax\bin\Debug\net5.0\printMinMax.exe
+C:\Users\byh\source\repos\printMinMax\printMinMax\bin\Debug\net5.0\printMinMax.deps.json
+C:\Users\byh\source\repos\printMinMax\printMinMax\bin\Debug\net5.0\printMinMax.runtimeconfig.json
+C:\Users\byh\source\repos\printMinMax\printMinMax\bin\Debug\net5.0\printMinMax.runtimeconfig.dev.json
+C:\Users\byh\source\repos\printMinMax\printMinMax\bin\Debug\net5.0\printMinMax.dll
+C:\Users\byh\source\repos\printMinMax\printMinMax\bin\Debug\net5.0\ref\printMinMax.dll
+C:\Users\byh\source\repos\printMinMax\printMinMax\bin\Debug\net5.0\printMinMax.pdb
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\printMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\printMinMax.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\printMinMax.AssemblyInfo.cs
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\printMinMax.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\printMinMax.dll
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\ref\printMinMax.dll
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\printMinMax.pdb
+C:\Users\byh\source\repos\printMinMax\printMinMax\obj\Debug\net5.0\printMinMax.genruntimeconfig.cache

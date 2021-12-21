@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\bin\Debug\net5.0\classListPractice1.exe
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\bin\Debug\net5.0\classListPractice1.deps.json
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\bin\Debug\net5.0\classListPractice1.runtimeconfig.json
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\bin\Debug\net5.0\classListPractice1.runtimeconfig.dev.json
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\bin\Debug\net5.0\classListPractice1.dll
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\bin\Debug\net5.0\ref\classListPractice1.dll
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\bin\Debug\net5.0\classListPractice1.pdb
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\classListPractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\classListPractice1.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\classListPractice1.AssemblyInfo.cs
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\classListPractice1.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\classListPractice1.dll
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\ref\classListPractice1.dll
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\classListPractice1.pdb
+C:\Users\byh\source\repos\classListPractice1\classListPractice1\obj\Debug\net5.0\classListPractice1.genruntimeconfig.cache
