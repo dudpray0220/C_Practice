@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\byh\\source\\repos\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj": {}
+    "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj": {}
   },
   "projects": {
-    "C:\\Users\\byh\\source\\repos\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj": {
+    "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj",
+        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj",
         "projectName": "star2(reverse)",
-        "projectPath": "C:\\Users\\byh\\source\\repos\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj",
+        "projectPath": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\star2(reverse)\\star2(reverse)\\star2(reverse).csproj",
         "packagesPath": "C:\\Users\\byh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\byh\\source\\repos\\star2(reverse)\\star2(reverse)\\obj\\",
+        "outputPath": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\star2(reverse)\\star2(reverse)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\byh\\AppData\\Roaming\\NuGet\\NuGet.Config",
