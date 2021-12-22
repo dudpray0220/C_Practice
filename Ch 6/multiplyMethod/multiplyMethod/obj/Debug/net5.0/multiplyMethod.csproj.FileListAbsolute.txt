@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\bin\Debug\net5.0\multiplyMethod.exe
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\bin\Debug\net5.0\multiplyMethod.deps.json
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\bin\Debug\net5.0\multiplyMethod.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\bin\Debug\net5.0\multiplyMethod.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\bin\Debug\net5.0\multiplyMethod.dll
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\bin\Debug\net5.0\ref\multiplyMethod.dll
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\bin\Debug\net5.0\multiplyMethod.pdb
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\multiplyMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\multiplyMethod.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\multiplyMethod.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\multiplyMethod.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\multiplyMethod.dll
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\ref\multiplyMethod.dll
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\multiplyMethod.pdb
+C:\Users\byh\source\repos\Ch 6\multiplyMethod\multiplyMethod\obj\Debug\net5.0\multiplyMethod.genruntimeconfig.cache

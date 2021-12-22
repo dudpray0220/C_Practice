@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\bin\Debug\net5.0\BoxClass1.exe
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\bin\Debug\net5.0\BoxClass1.deps.json
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\bin\Debug\net5.0\BoxClass1.runtimeconfig.json
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\bin\Debug\net5.0\BoxClass1.runtimeconfig.dev.json
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\bin\Debug\net5.0\BoxClass1.dll
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\bin\Debug\net5.0\ref\BoxClass1.dll
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\bin\Debug\net5.0\BoxClass1.pdb
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.AssemblyInfo.cs
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.dll
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\ref\BoxClass1.dll
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.pdb
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.genruntimeconfig.cache
+C:\Users\byh\source\repos\BoxClass1\BoxClass1\obj\Debug\net5.0\BoxClass1.csproj.AssemblyReference.cache

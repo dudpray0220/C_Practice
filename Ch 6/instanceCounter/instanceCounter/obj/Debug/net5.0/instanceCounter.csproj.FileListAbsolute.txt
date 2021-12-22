@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\bin\Debug\net5.0\instanceCounter.exe
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\bin\Debug\net5.0\instanceCounter.deps.json
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\bin\Debug\net5.0\instanceCounter.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\bin\Debug\net5.0\instanceCounter.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\bin\Debug\net5.0\instanceCounter.dll
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\bin\Debug\net5.0\ref\instanceCounter.dll
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\bin\Debug\net5.0\instanceCounter.pdb
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.dll
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\ref\instanceCounter.dll
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.pdb
+C:\Users\byh\source\repos\Ch 6\instanceCounter\instanceCounter\obj\Debug\net5.0\instanceCounter.genruntimeconfig.cache

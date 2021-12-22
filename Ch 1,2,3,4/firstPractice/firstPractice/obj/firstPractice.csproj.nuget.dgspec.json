@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\firstPractice\\firstPractice\\firstPractice.csproj": {}
+    "C:\\Users\\byh\\source\\repos\\Ch 1,2,3,4\\firstPractice\\firstPractice\\firstPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\firstPractice\\firstPractice\\firstPractice.csproj": {
+    "C:\\Users\\byh\\source\\repos\\Ch 1,2,3,4\\firstPractice\\firstPractice\\firstPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\firstPractice\\firstPractice\\firstPractice.csproj",
+        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3,4\\firstPractice\\firstPractice\\firstPractice.csproj",
         "projectName": "firstPractice",
-        "projectPath": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\firstPractice\\firstPractice\\firstPractice.csproj",
+        "projectPath": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3,4\\firstPractice\\firstPractice\\firstPractice.csproj",
         "packagesPath": "C:\\Users\\byh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3\\firstPractice\\firstPractice\\obj\\",
+        "outputPath": "C:\\Users\\byh\\source\\repos\\Ch 1,2,3,4\\firstPractice\\firstPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\byh\\AppData\\Roaming\\NuGet\\NuGet.Config",
