@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fibonacciMethod/1.0.0": {
+        "runtime": {
+          "fibonacciMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fibonacciMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

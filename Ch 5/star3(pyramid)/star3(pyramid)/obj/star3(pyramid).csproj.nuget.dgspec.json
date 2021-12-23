@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\byh\\source\\repos\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj": {}
+    "C:\\Users\\byh\\source\\repos\\Ch 5\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj": {}
   },
   "projects": {
-    "C:\\Users\\byh\\source\\repos\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj": {
+    "C:\\Users\\byh\\source\\repos\\Ch 5\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj",
+        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\Ch 5\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj",
         "projectName": "star3(pyramid)",
-        "projectPath": "C:\\Users\\byh\\source\\repos\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj",
+        "projectPath": "C:\\Users\\byh\\source\\repos\\Ch 5\\star3(pyramid)\\star3(pyramid)\\star3(pyramid).csproj",
         "packagesPath": "C:\\Users\\byh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\byh\\source\\repos\\star3(pyramid)\\star3(pyramid)\\obj\\",
+        "outputPath": "C:\\Users\\byh\\source\\repos\\Ch 5\\star3(pyramid)\\star3(pyramid)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\byh\\AppData\\Roaming\\NuGet\\NuGet.Config",

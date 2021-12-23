@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\byh\\source\\repos\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj": {}
+    "C:\\Users\\byh\\source\\repos\\Ch 5\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\byh\\source\\repos\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj": {
+    "C:\\Users\\byh\\source\\repos\\Ch 5\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj",
+        "projectUniqueName": "C:\\Users\\byh\\source\\repos\\Ch 5\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj",
         "projectName": "FirstFromApplication",
-        "projectPath": "C:\\Users\\byh\\source\\repos\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj",
+        "projectPath": "C:\\Users\\byh\\source\\repos\\Ch 5\\FirstFromApplication\\FirstFromApplication\\FirstFromApplication.csproj",
         "packagesPath": "C:\\Users\\byh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\byh\\source\\repos\\FirstFromApplication\\FirstFromApplication\\obj\\",
+        "outputPath": "C:\\Users\\byh\\source\\repos\\Ch 5\\FirstFromApplication\\FirstFromApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\byh\\AppData\\Roaming\\NuGet\\NuGet.Config",

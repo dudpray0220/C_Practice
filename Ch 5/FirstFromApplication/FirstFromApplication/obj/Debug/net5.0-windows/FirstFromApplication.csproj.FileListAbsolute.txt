@@ -16,3 +16,21 @@ C:\Users\byh\source\repos\FirstFromApplication\FirstFromApplication\obj\Debug\ne
 C:\Users\byh\source\repos\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\ref\FirstFromApplication.dll
 C:\Users\byh\source\repos\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.pdb
 C:\Users\byh\source\repos\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.genruntimeconfig.cache
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\bin\Debug\net5.0-windows\FirstFromApplication.exe
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\bin\Debug\net5.0-windows\FirstFromApplication.deps.json
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\bin\Debug\net5.0-windows\FirstFromApplication.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\bin\Debug\net5.0-windows\FirstFromApplication.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\bin\Debug\net5.0-windows\FirstFromApplication.dll
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\bin\Debug\net5.0-windows\ref\FirstFromApplication.dll
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\bin\Debug\net5.0-windows\FirstFromApplication.pdb
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.Form1.resources
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.csproj.GenerateResource.cache
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.dll
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\ref\FirstFromApplication.dll
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.pdb
+C:\Users\byh\source\repos\Ch 5\FirstFromApplication\FirstFromApplication\obj\Debug\net5.0-windows\FirstFromApplication.genruntimeconfig.cache
