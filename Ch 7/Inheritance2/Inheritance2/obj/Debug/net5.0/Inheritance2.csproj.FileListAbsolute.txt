@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\bin\Debug\net5.0\Inheritance2.exe
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\bin\Debug\net5.0\Inheritance2.deps.json
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\bin\Debug\net5.0\Inheritance2.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\bin\Debug\net5.0\Inheritance2.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\bin\Debug\net5.0\Inheritance2.dll
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\bin\Debug\net5.0\ref\Inheritance2.dll
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\bin\Debug\net5.0\Inheritance2.pdb
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\Inheritance2.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\Inheritance2.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\Inheritance2.dll
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\ref\Inheritance2.dll
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\Inheritance2.pdb
+C:\Users\byh\source\repos\Ch 7\Inheritance2\Inheritance2\obj\Debug\net5.0\Inheritance2.genruntimeconfig.cache

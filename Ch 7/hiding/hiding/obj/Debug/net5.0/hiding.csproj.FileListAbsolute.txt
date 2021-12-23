@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\bin\Debug\net5.0\hiding.exe
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\bin\Debug\net5.0\hiding.deps.json
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\bin\Debug\net5.0\hiding.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\bin\Debug\net5.0\hiding.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\bin\Debug\net5.0\hiding.dll
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\bin\Debug\net5.0\ref\hiding.dll
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\bin\Debug\net5.0\hiding.pdb
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\hiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\hiding.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\hiding.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\hiding.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\hiding.dll
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\ref\hiding.dll
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\hiding.pdb
+C:\Users\byh\source\repos\Ch 7\hiding\hiding\obj\Debug\net5.0\hiding.genruntimeconfig.cache

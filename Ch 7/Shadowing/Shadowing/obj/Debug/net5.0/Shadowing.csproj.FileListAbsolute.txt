@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\bin\Debug\net5.0\Shadowing.exe
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\bin\Debug\net5.0\Shadowing.deps.json
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\bin\Debug\net5.0\Shadowing.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\bin\Debug\net5.0\Shadowing.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\bin\Debug\net5.0\Shadowing.dll
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\bin\Debug\net5.0\ref\Shadowing.dll
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\bin\Debug\net5.0\Shadowing.pdb
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.dll
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\ref\Shadowing.dll
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.pdb
+C:\Users\byh\source\repos\Ch 7\Shadowing\Shadowing\obj\Debug\net5.0\Shadowing.genruntimeconfig.cache
