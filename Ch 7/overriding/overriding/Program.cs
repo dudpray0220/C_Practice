@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace hiding
+namespace overriding
 {
     class Program
     {
         class Parent
         {
-            public int variable = 273;
-            public void Method()
+            public virtual void Method ()
             {
                 Console.WriteLine("parent");
             }
@@ -15,8 +14,7 @@ namespace hiding
 
         class Child : Parent
         {
-            public new string variable = "string";
-            public new void Method()
+            public override void Method()
             {
                 Console.WriteLine("child");
             }
