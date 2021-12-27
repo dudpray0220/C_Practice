@@ -12,6 +12,13 @@ namespace WinFormsAppInheritance
 {
     public partial class Form1 : Form
     {
+        class CustomForm : Form
+        {
+            public CustomForm ()
+            {
+                Text = "title";
+            }
+        }
         public Form1()
         {
             InitializeComponent();
@@ -19,14 +26,16 @@ namespace WinFormsAppInheritance
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("content");
-            MessageBox.Show("content", "title");
+            //MessageBox.Show("content");
+            //MessageBox.Show("content", "title");
 
-            DialogResult result;
-            do
-            {
-                result = MessageBox.Show("content", "title", MessageBoxButtons.RetryCancel);
-            } while (result == DialogResult.Retry);
+            //DialogResult result;
+            //do
+            //{
+            //    result = MessageBox.Show("content", "title", MessageBoxButtons.RetryCancel);
+            //} while (result == DialogResult.Retry);
+            CustomForm form = new CustomForm();
+            form.Show();
         }
     }
 }

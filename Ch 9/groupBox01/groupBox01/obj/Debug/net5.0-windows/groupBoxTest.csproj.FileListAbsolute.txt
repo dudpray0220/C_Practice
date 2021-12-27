@@ -1,0 +1,17 @@
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBoxTest.exe
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBoxTest.deps.json
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBoxTest.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBoxTest.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBoxTest.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\ref\groupBoxTest.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBoxTest.pdb
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.Form1.resources
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.csproj.GenerateResource.cache
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\ref\groupBoxTest.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.pdb
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBoxTest.genruntimeconfig.cache

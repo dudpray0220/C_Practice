@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\bin\Debug\net5.0\outKeyword.exe
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\bin\Debug\net5.0\outKeyword.deps.json
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\bin\Debug\net5.0\outKeyword.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\bin\Debug\net5.0\outKeyword.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\bin\Debug\net5.0\outKeyword.dll
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\bin\Debug\net5.0\ref\outKeyword.dll
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\bin\Debug\net5.0\outKeyword.pdb
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.dll
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\ref\outKeyword.dll
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.pdb
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.genruntimeconfig.cache
+C:\Users\byh\source\repos\Ch 8\outKeyword\outKeyword\obj\Debug\net5.0\outKeyword.csproj.AssemblyReference.cache

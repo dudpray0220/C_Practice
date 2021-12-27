@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriterPractice.exe
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriterPractice.deps.json
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriterPractice.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriterPractice.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriterPractice.dll
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\bin\Debug\net5.0\ref\StreamWriterPractice.dll
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriterPractice.pdb
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.dll
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\ref\StreamWriterPractice.dll
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.pdb
+C:\Users\byh\source\repos\Ch 9\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriterPractice.genruntimeconfig.cache

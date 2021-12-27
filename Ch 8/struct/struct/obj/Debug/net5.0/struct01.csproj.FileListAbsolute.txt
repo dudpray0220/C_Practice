@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 8\struct\struct\bin\Debug\net5.0\struct01.exe
+C:\Users\byh\source\repos\Ch 8\struct\struct\bin\Debug\net5.0\struct01.deps.json
+C:\Users\byh\source\repos\Ch 8\struct\struct\bin\Debug\net5.0\struct01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 8\struct\struct\bin\Debug\net5.0\struct01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 8\struct\struct\bin\Debug\net5.0\struct01.dll
+C:\Users\byh\source\repos\Ch 8\struct\struct\bin\Debug\net5.0\ref\struct01.dll
+C:\Users\byh\source\repos\Ch 8\struct\struct\bin\Debug\net5.0\struct01.pdb
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\struct01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\struct01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\struct01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\struct01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\struct01.dll
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\ref\struct01.dll
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\struct01.pdb
+C:\Users\byh\source\repos\Ch 8\struct\struct\obj\Debug\net5.0\struct01.genruntimeconfig.cache

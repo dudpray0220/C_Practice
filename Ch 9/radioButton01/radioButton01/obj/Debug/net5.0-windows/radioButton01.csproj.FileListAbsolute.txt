@@ -1,0 +1,17 @@
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\bin\Debug\net5.0-windows\radioButton01.exe
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\bin\Debug\net5.0-windows\radioButton01.deps.json
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\bin\Debug\net5.0-windows\radioButton01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\bin\Debug\net5.0-windows\radioButton01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\bin\Debug\net5.0-windows\radioButton01.dll
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\bin\Debug\net5.0-windows\ref\radioButton01.dll
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\bin\Debug\net5.0-windows\radioButton01.pdb
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.Form1.resources
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.csproj.GenerateResource.cache
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.dll
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\ref\radioButton01.dll
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.pdb
+C:\Users\byh\source\repos\Ch 9\radioButton01\radioButton01\obj\Debug\net5.0-windows\radioButton01.genruntimeconfig.cache

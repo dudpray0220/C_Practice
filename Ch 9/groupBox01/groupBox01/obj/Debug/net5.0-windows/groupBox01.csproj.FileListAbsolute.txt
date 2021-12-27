@@ -1,0 +1,17 @@
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.Form1.resources
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.csproj.GenerateResource.cache
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBox01.exe
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBox01.deps.json
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBox01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBox01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBox01.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\ref\groupBox01.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\bin\Debug\net5.0-windows\groupBox01.pdb
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\ref\groupBox01.dll
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.pdb
+C:\Users\byh\source\repos\Ch 9\groupBox01\groupBox01\obj\Debug\net5.0-windows\groupBox01.genruntimeconfig.cache

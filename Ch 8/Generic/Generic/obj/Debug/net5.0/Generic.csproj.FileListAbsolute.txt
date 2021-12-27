@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\bin\Debug\net5.0\Generic.exe
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\bin\Debug\net5.0\Generic.deps.json
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\bin\Debug\net5.0\Generic.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\bin\Debug\net5.0\Generic.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\bin\Debug\net5.0\Generic.dll
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\bin\Debug\net5.0\ref\Generic.dll
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\bin\Debug\net5.0\Generic.pdb
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\Generic.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\Generic.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\Generic.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\Generic.dll
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\ref\Generic.dll
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\Generic.pdb
+C:\Users\byh\source\repos\Ch 8\Generic\Generic\obj\Debug\net5.0\Generic.genruntimeconfig.cache

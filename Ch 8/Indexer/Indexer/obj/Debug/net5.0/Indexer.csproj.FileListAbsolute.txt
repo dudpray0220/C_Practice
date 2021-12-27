@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\bin\Debug\net5.0\Indexer.exe
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\bin\Debug\net5.0\Indexer.deps.json
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\bin\Debug\net5.0\Indexer.dll
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\bin\Debug\net5.0\ref\Indexer.dll
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\bin\Debug\net5.0\Indexer.pdb
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\Indexer.dll
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\ref\Indexer.dll
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\Indexer.pdb
+C:\Users\byh\source\repos\Ch 8\Indexer\Indexer\obj\Debug\net5.0\Indexer.genruntimeconfig.cache

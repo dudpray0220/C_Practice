@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\bin\Debug\net5.0\ReadWriteProgram.exe
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\bin\Debug\net5.0\ReadWriteProgram.deps.json
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\bin\Debug\net5.0\ReadWriteProgram.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\bin\Debug\net5.0\ReadWriteProgram.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\bin\Debug\net5.0\ReadWriteProgram.dll
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\bin\Debug\net5.0\ref\ReadWriteProgram.dll
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\bin\Debug\net5.0\ReadWriteProgram.pdb
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.dll
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ref\ReadWriteProgram.dll
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.pdb
+C:\Users\byh\source\repos\Ch 9\ReadWriteProgram\ReadWriteProgram\obj\Debug\net5.0\ReadWriteProgram.genruntimeconfig.cache
