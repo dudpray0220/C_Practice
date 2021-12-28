@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\bin\Debug\net5.0\delegateCalculate.exe
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\bin\Debug\net5.0\delegateCalculate.deps.json
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\bin\Debug\net5.0\delegateCalculate.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\bin\Debug\net5.0\delegateCalculate.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\bin\Debug\net5.0\delegateCalculate.dll
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\bin\Debug\net5.0\ref\delegateCalculate.dll
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\bin\Debug\net5.0\delegateCalculate.pdb
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\delegateCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\delegateCalculate.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\delegateCalculate.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\delegateCalculate.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\delegateCalculate.dll
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\ref\delegateCalculate.dll
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\delegateCalculate.pdb
+C:\Users\byh\source\repos\Ch 11\delegateCalculate\delegateCalculate\obj\Debug\net5.0\delegateCalculate.genruntimeconfig.cache

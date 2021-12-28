@@ -1,0 +1,17 @@
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\bin\Debug\net5.0-windows\dataGridView01.exe
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\bin\Debug\net5.0-windows\dataGridView01.deps.json
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\bin\Debug\net5.0-windows\dataGridView01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\bin\Debug\net5.0-windows\dataGridView01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\bin\Debug\net5.0-windows\dataGridView01.dll
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\bin\Debug\net5.0-windows\ref\dataGridView01.dll
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\bin\Debug\net5.0-windows\dataGridView01.pdb
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.Form1.resources
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.csproj.GenerateResource.cache
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.dll
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\ref\dataGridView01.dll
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.pdb
+C:\Users\byh\source\repos\Ch 10\dataGridView01\dataGridView01\obj\Debug\net5.0-windows\dataGridView01.genruntimeconfig.cache

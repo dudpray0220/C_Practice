@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\bin\Debug\net5.0\tryCatchFinally.exe
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\bin\Debug\net5.0\tryCatchFinally.deps.json
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\bin\Debug\net5.0\tryCatchFinally.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\bin\Debug\net5.0\tryCatchFinally.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\bin\Debug\net5.0\tryCatchFinally.dll
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\bin\Debug\net5.0\ref\tryCatchFinally.dll
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\bin\Debug\net5.0\tryCatchFinally.pdb
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.dll
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\ref\tryCatchFinally.dll
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.pdb
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.genruntimeconfig.cache
+C:\Users\byh\source\repos\Ch 10\tryCatchFinally\tryCatchFinally\obj\Debug\net5.0\tryCatchFinally.csproj.AssemblyReference.cache

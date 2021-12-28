@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\bin\Debug\net5.0\delegate01.exe
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\bin\Debug\net5.0\delegate01.deps.json
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\bin\Debug\net5.0\delegate01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\bin\Debug\net5.0\delegate01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\bin\Debug\net5.0\delegate01.dll
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\bin\Debug\net5.0\ref\delegate01.dll
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\bin\Debug\net5.0\delegate01.pdb
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.dll
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\ref\delegate01.dll
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.pdb
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.genruntimeconfig.cache
+C:\Users\byh\source\repos\Ch 11\delegate01\delegate01\obj\Debug\net5.0\delegate01.csproj.AssemblyReference.cache

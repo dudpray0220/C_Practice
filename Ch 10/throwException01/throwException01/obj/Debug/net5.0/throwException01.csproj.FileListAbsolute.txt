@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\bin\Debug\net5.0\throwException01.exe
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\bin\Debug\net5.0\throwException01.deps.json
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\bin\Debug\net5.0\throwException01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\bin\Debug\net5.0\throwException01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\bin\Debug\net5.0\throwException01.dll
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\bin\Debug\net5.0\ref\throwException01.dll
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\bin\Debug\net5.0\throwException01.pdb
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\throwException01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\throwException01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\throwException01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\throwException01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\throwException01.dll
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\ref\throwException01.dll
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\throwException01.pdb
+C:\Users\byh\source\repos\Ch 10\throwException01\throwException01\obj\Debug\net5.0\throwException01.genruntimeconfig.cache

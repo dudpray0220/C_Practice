@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\bin\Debug\net5.0\exception02.exe
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\bin\Debug\net5.0\exception02.deps.json
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\bin\Debug\net5.0\exception02.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\bin\Debug\net5.0\exception02.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\bin\Debug\net5.0\exception02.dll
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\bin\Debug\net5.0\ref\exception02.dll
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\bin\Debug\net5.0\exception02.pdb
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\exception02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\exception02.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\exception02.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\exception02.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\exception02.dll
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\ref\exception02.dll
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\exception02.pdb
+C:\Users\byh\source\repos\Ch 10\exception02\exception02\obj\Debug\net5.0\exception02.genruntimeconfig.cache
