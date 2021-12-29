@@ -42,17 +42,25 @@ namespace BookManagementProgram
             this.label5 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.Isbn = new System.Windows.Forms.Label();
-            this.bookName = new System.Windows.Forms.Label();
-            this.userId = new System.Windows.Forms.Label();
-            this.textBoxIsbn = new System.Windows.Forms.TextBox();
+            this.buttonReturn = new System.Windows.Forms.Button();
+            this.buttonBorrow = new System.Windows.Forms.Button();
             this.textBoxUserId = new System.Windows.Forms.TextBox();
             this.textBoxBookName = new System.Windows.Forms.TextBox();
-            this.buttonBorrow = new System.Windows.Forms.Button();
-            this.buttonReturn = new System.Windows.Forms.Button();
+            this.userId = new System.Windows.Forms.Label();
+            this.Isbn = new System.Windows.Forms.Label();
+            this.textBoxIsbn = new System.Windows.Forms.TextBox();
+            this.bookName = new System.Windows.Forms.Label();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.groupBox4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -62,7 +70,7 @@ namespace BookManagementProgram
             this.toolStripMenuItem2});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(819, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -71,12 +79,14 @@ namespace BookManagementProgram
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(71, 20);
             this.toolStripMenuItem1.Text = "도서 관리";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
             this.toolStripMenuItem2.Size = new System.Drawing.Size(83, 20);
             this.toolStripMenuItem2.Text = "사용자 관리";
+            this.toolStripMenuItem2.Click += new System.EventHandler(this.toolStripMenuItem2_Click);
             // 
             // groupBox1
             // 
@@ -88,7 +98,7 @@ namespace BookManagementProgram
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Location = new System.Drawing.Point(0, 37);
+            this.groupBox1.Location = new System.Drawing.Point(3, 32);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(315, 114);
             this.groupBox1.TabIndex = 1;
@@ -177,46 +187,30 @@ namespace BookManagementProgram
             this.groupBox2.Controls.Add(this.Isbn);
             this.groupBox2.Controls.Add(this.textBoxIsbn);
             this.groupBox2.Controls.Add(this.bookName);
-            this.groupBox2.Location = new System.Drawing.Point(336, 37);
+            this.groupBox2.Location = new System.Drawing.Point(339, 32);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(366, 113);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "대여 / 반납";
             // 
-            // Isbn
+            // buttonReturn
             // 
-            this.Isbn.AutoSize = true;
-            this.Isbn.Location = new System.Drawing.Point(16, 28);
-            this.Isbn.Name = "Isbn";
-            this.Isbn.Size = new System.Drawing.Size(29, 15);
-            this.Isbn.TabIndex = 3;
-            this.Isbn.Text = "Isbn";
+            this.buttonReturn.Location = new System.Drawing.Point(273, 55);
+            this.buttonReturn.Name = "buttonReturn";
+            this.buttonReturn.Size = new System.Drawing.Size(78, 25);
+            this.buttonReturn.TabIndex = 7;
+            this.buttonReturn.Text = "반납";
+            this.buttonReturn.UseVisualStyleBackColor = true;
             // 
-            // bookName
+            // buttonBorrow
             // 
-            this.bookName.AutoSize = true;
-            this.bookName.Location = new System.Drawing.Point(16, 56);
-            this.bookName.Name = "bookName";
-            this.bookName.Size = new System.Drawing.Size(59, 15);
-            this.bookName.TabIndex = 4;
-            this.bookName.Text = "도서 이름";
-            // 
-            // userId
-            // 
-            this.userId.AutoSize = true;
-            this.userId.Location = new System.Drawing.Point(16, 82);
-            this.userId.Name = "userId";
-            this.userId.Size = new System.Drawing.Size(59, 15);
-            this.userId.TabIndex = 5;
-            this.userId.Text = "사용자 ID";
-            // 
-            // textBoxIsbn
-            // 
-            this.textBoxIsbn.Location = new System.Drawing.Point(112, 25);
-            this.textBoxIsbn.Name = "textBoxIsbn";
-            this.textBoxIsbn.Size = new System.Drawing.Size(120, 23);
-            this.textBoxIsbn.TabIndex = 3;
+            this.buttonBorrow.Location = new System.Drawing.Point(273, 25);
+            this.buttonBorrow.Name = "buttonBorrow";
+            this.buttonBorrow.Size = new System.Drawing.Size(78, 25);
+            this.buttonBorrow.TabIndex = 6;
+            this.buttonBorrow.Text = "대여";
+            this.buttonBorrow.UseVisualStyleBackColor = true;
             // 
             // textBoxUserId
             // 
@@ -232,29 +226,85 @@ namespace BookManagementProgram
             this.textBoxBookName.Size = new System.Drawing.Size(120, 23);
             this.textBoxBookName.TabIndex = 5;
             // 
-            // buttonBorrow
+            // userId
             // 
-            this.buttonBorrow.Location = new System.Drawing.Point(273, 25);
-            this.buttonBorrow.Name = "buttonBorrow";
-            this.buttonBorrow.Size = new System.Drawing.Size(78, 25);
-            this.buttonBorrow.TabIndex = 6;
-            this.buttonBorrow.Text = "대여";
-            this.buttonBorrow.UseVisualStyleBackColor = true;
+            this.userId.AutoSize = true;
+            this.userId.Location = new System.Drawing.Point(16, 82);
+            this.userId.Name = "userId";
+            this.userId.Size = new System.Drawing.Size(59, 15);
+            this.userId.TabIndex = 5;
+            this.userId.Text = "사용자 ID";
             // 
-            // buttonReturn
+            // Isbn
             // 
-            this.buttonReturn.Location = new System.Drawing.Point(273, 55);
-            this.buttonReturn.Name = "buttonReturn";
-            this.buttonReturn.Size = new System.Drawing.Size(78, 25);
-            this.buttonReturn.TabIndex = 7;
-            this.buttonReturn.Text = "반납";
-            this.buttonReturn.UseVisualStyleBackColor = true;
+            this.Isbn.AutoSize = true;
+            this.Isbn.Location = new System.Drawing.Point(16, 28);
+            this.Isbn.Name = "Isbn";
+            this.Isbn.Size = new System.Drawing.Size(29, 15);
+            this.Isbn.TabIndex = 3;
+            this.Isbn.Text = "Isbn";
+            // 
+            // textBoxIsbn
+            // 
+            this.textBoxIsbn.Location = new System.Drawing.Point(112, 25);
+            this.textBoxIsbn.Name = "textBoxIsbn";
+            this.textBoxIsbn.Size = new System.Drawing.Size(120, 23);
+            this.textBoxIsbn.TabIndex = 3;
+            // 
+            // bookName
+            // 
+            this.bookName.AutoSize = true;
+            this.bookName.Location = new System.Drawing.Point(16, 56);
+            this.bookName.Name = "bookName";
+            this.bookName.Size = new System.Drawing.Size(59, 15);
+            this.bookName.TabIndex = 4;
+            this.bookName.Text = "도서 이름";
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.dataGridView1);
+            this.groupBox3.Location = new System.Drawing.Point(3, 146);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(813, 173);
+            this.groupBox3.TabIndex = 3;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "도서 현황";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(4, 15);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowTemplate.Height = 25;
+            this.dataGridView1.Size = new System.Drawing.Size(805, 152);
+            this.dataGridView1.TabIndex = 0;
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.dataGridView2);
+            this.groupBox4.Location = new System.Drawing.Point(3, 319);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(813, 188);
+            this.groupBox4.TabIndex = 4;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "사용자 현황";
+            // 
+            // dataGridView2
+            // 
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(4, 15);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.RowTemplate.Height = 25;
+            this.dataGridView2.Size = new System.Drawing.Size(805, 168);
+            this.dataGridView2.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(819, 511);
+            this.Controls.Add(this.groupBox4);
+            this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.menuStrip1);
@@ -267,6 +317,10 @@ namespace BookManagementProgram
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.groupBox4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -295,6 +349,10 @@ namespace BookManagementProgram
         private System.Windows.Forms.TextBox textBoxUserId;
         private System.Windows.Forms.TextBox textBoxBookName;
         private System.Windows.Forms.TextBox textBoxIsbn;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGridView2;
     }
 }
 

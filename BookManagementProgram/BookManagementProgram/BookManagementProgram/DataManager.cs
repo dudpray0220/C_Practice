@@ -54,7 +54,7 @@ namespace BookManagementProgram
             }
         }
 
-        private static void Save()
+        public static void Save()
         {
             // 도서 정보를 XML로 만듬. (코드 보면 그냥 태그 만들어 주는 것)
             string booksOutput = "";
