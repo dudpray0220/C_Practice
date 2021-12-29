@@ -98,7 +98,7 @@ namespace BookManagementProgram
                         dataGridView1.DataSource = DataManager.Books;
                         DataManager.Save();
 
-                        MessageBox.Show("\"" + book.Name + "\"이/가\"" + user.Name + "\"님께 대여되었습니다!");
+                        MessageBox.Show("\"" + book.Name + "\"이/가\" " + user.Name + "\"님께 대여되었습니다!");
                     }
                 }
                 catch (Exception)
@@ -120,7 +120,7 @@ namespace BookManagementProgram
                 try
                 {   // 값을 맞춰주는 로직
                     Book book = DataManager.Books.Single((x) => x.Isbn == textBoxIsbn.Text);
-                    if (book.isBorrowed)
+                    if (book.isBorrowed && book.UserId == int.Parse(textBoxUserId.Text)) // 대출 중 && 반납하고자 하는 사람ID와 대출한 사람 ID가 같으면
                     {
                         User user = DataManager.Users.Single((x) => x.Id.ToString() == book.UserId.ToString());
                         book.UserId = 0;
@@ -135,16 +135,21 @@ namespace BookManagementProgram
 
                         if (book.BorrowedAt.AddDays(7) > DateTime.Now)
                         {
-                            MessageBox.Show("\"" + book.Name + "\"이/가 연체상태로 반납되었습니다...");
+                            MessageBox.Show(user.Name + "님이 " + "\"" + book.Name + "\"를/을 연체상태로 반납했습니다!!! 쒸익쒸익");
                         }
                         else
                         {
-                            MessageBox.Show("\"" + book.Name + "\"이/가 반납되었습니다...");
+                            MessageBox.Show(user.Name + "님이 " + "\"" + book.Name + "\"를/을 반납했습니다!!!");
                         }
                     }
-                    else
+                    else if (book.isBorrowed && book.UserId != int.Parse(textBoxUserId.Text))  // 대출 중 && 반납하고자 하는 사람ID와 대출한 사람 ID가 다르면
+                    {
+                        MessageBox.Show("본인이 아닙니다! 남의 책을 탐내지 마시오!");
+                    }
+                    else // 대출 중이 아니면
                     {
                         MessageBox.Show("대여상태가 아닙니다!");
+
                     }
                 }
                 catch (Exception)

@@ -6,14 +6,24 @@
     <page>575</page>
     <borrowedAt>2021년 12월 29일 수요일</borrowedAt>
     <isBorrowed>1</isBorrowed>
-    <userId>3</userId>
-    <userName>꼬돌</userName>
+    <userId>4</userId>
+    <userName>샤찌</userName>
 </book>
 <book>
     <isbn>456</isbn>
     <name>JAVA프로그래밍</name>
     <publisher>byh1</publisher>
     <page>575</page>
+    <borrowedAt>2021년 12월 29일 수요일</borrowedAt>
+    <isBorrowed>1</isBorrowed>
+    <userId>3</userId>
+    <userName>꼬돌</userName>
+</book>
+<book>
+    <isbn>789</isbn>
+    <name>GO프로그래밍</name>
+    <publisher>byh</publisher>
+    <page>5751</page>
     <borrowedAt>2021년 12월 29일 수요일</borrowedAt>
     <isBorrowed>1</isBorrowed>
     <userId>4</userId>
