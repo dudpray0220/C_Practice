@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\object01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\object01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\object01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\object01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 12\object01\object01\bin\Debug\net5.0\object01.exe
+C:\Users\byh\source\repos\Ch 12\object01\object01\bin\Debug\net5.0\object01.deps.json
+C:\Users\byh\source\repos\Ch 12\object01\object01\bin\Debug\net5.0\object01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 12\object01\object01\bin\Debug\net5.0\object01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 12\object01\object01\bin\Debug\net5.0\object01.dll
+C:\Users\byh\source\repos\Ch 12\object01\object01\bin\Debug\net5.0\ref\object01.dll
+C:\Users\byh\source\repos\Ch 12\object01\object01\bin\Debug\net5.0\object01.pdb
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\object01.dll
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\ref\object01.dll
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\object01.pdb
+C:\Users\byh\source\repos\Ch 12\object01\object01\obj\Debug\net5.0\object01.genruntimeconfig.cache

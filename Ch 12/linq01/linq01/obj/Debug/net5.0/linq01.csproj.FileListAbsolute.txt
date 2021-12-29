@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\bin\Debug\net5.0\linq01.exe
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\bin\Debug\net5.0\linq01.deps.json
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\bin\Debug\net5.0\linq01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\bin\Debug\net5.0\linq01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\bin\Debug\net5.0\linq01.dll
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\bin\Debug\net5.0\ref\linq01.dll
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\bin\Debug\net5.0\linq01.pdb
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.dll
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\ref\linq01.dll
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.pdb
+C:\Users\byh\source\repos\Ch 12\linq01\linq01\obj\Debug\net5.0\linq01.genruntimeconfig.cache

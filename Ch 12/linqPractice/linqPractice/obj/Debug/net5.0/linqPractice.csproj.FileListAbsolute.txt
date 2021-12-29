@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\bin\Debug\net5.0\linqPractice.exe
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\bin\Debug\net5.0\linqPractice.deps.json
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\bin\Debug\net5.0\linqPractice.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\bin\Debug\net5.0\linqPractice.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\bin\Debug\net5.0\linqPractice.dll
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\bin\Debug\net5.0\ref\linqPractice.dll
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\bin\Debug\net5.0\linqPractice.pdb
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\linqPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\linqPractice.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\linqPractice.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\linqPractice.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\linqPractice.dll
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\ref\linqPractice.dll
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\linqPractice.pdb
+C:\Users\byh\source\repos\Ch 12\linqPractice\linqPractice\obj\Debug\net5.0\linqPractice.genruntimeconfig.cache

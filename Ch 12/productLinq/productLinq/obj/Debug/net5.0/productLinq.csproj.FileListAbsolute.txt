@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\bin\Debug\net5.0\productLinq.exe
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\bin\Debug\net5.0\productLinq.deps.json
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\bin\Debug\net5.0\productLinq.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\bin\Debug\net5.0\productLinq.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\bin\Debug\net5.0\productLinq.dll
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\bin\Debug\net5.0\ref\productLinq.dll
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\bin\Debug\net5.0\productLinq.pdb
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\productLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\productLinq.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\productLinq.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\productLinq.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\productLinq.dll
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\ref\productLinq.dll
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\productLinq.pdb
+C:\Users\byh\source\repos\Ch 12\productLinq\productLinq\obj\Debug\net5.0\productLinq.genruntimeconfig.cache

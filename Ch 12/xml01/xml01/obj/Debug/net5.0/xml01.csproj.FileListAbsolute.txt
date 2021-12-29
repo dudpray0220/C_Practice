@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\bin\Debug\net5.0\xml01.exe
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\bin\Debug\net5.0\xml01.deps.json
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\bin\Debug\net5.0\xml01.runtimeconfig.json
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\bin\Debug\net5.0\xml01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\bin\Debug\net5.0\xml01.dll
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\bin\Debug\net5.0\ref\xml01.dll
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\bin\Debug\net5.0\xml01.pdb
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\xml01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\xml01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\xml01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\xml01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\xml01.dll
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\ref\xml01.dll
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\xml01.pdb
+C:\Users\byh\source\repos\Ch 12\xml01\xml01\obj\Debug\net5.0\xml01.genruntimeconfig.cache
