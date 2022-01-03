@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\bin\Debug\net5.0\TcpListener02.exe
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\bin\Debug\net5.0\TcpListener02.deps.json
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\bin\Debug\net5.0\TcpListener02.runtimeconfig.json
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\bin\Debug\net5.0\TcpListener02.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\bin\Debug\net5.0\TcpListener02.dll
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\bin\Debug\net5.0\ref\TcpListener02.dll
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\bin\Debug\net5.0\TcpListener02.pdb
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\TcpListener02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\TcpListener02.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\TcpListener02.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\TcpListener02.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\TcpListener02.dll
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\ref\TcpListener02.dll
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\TcpListener02.pdb
+C:\Users\byh\source\repos\Network\TcpListener02\TcpListener02\obj\Debug\net5.0\TcpListener02.genruntimeconfig.cache

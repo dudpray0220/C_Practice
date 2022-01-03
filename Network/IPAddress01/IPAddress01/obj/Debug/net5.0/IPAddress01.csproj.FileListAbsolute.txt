@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\bin\Debug\net5.0\IPAddress01.exe
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\bin\Debug\net5.0\IPAddress01.deps.json
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\bin\Debug\net5.0\IPAddress01.runtimeconfig.json
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\bin\Debug\net5.0\IPAddress01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\bin\Debug\net5.0\IPAddress01.dll
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\bin\Debug\net5.0\ref\IPAddress01.dll
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\bin\Debug\net5.0\IPAddress01.pdb
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.dll
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\ref\IPAddress01.dll
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.pdb
+C:\Users\byh\source\repos\Network\IPAddress01\IPAddress01\obj\Debug\net5.0\IPAddress01.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\bin\Debug\net5.0\BinaryWrite01.exe
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\bin\Debug\net5.0\BinaryWrite01.deps.json
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\bin\Debug\net5.0\BinaryWrite01.runtimeconfig.json
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\bin\Debug\net5.0\BinaryWrite01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\bin\Debug\net5.0\BinaryWrite01.dll
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\bin\Debug\net5.0\ref\BinaryWrite01.dll
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\bin\Debug\net5.0\BinaryWrite01.pdb
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.dll
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\ref\BinaryWrite01.dll
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.pdb
+C:\Users\byh\source\repos\Network\BinaryWrite01\BinaryWrite01\obj\Debug\net5.0\BinaryWrite01.genruntimeconfig.cache

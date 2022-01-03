@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\bin\Debug\net5.0\TcpNetworkStreamClient.exe
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\bin\Debug\net5.0\TcpNetworkStreamClient.deps.json
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\bin\Debug\net5.0\TcpNetworkStreamClient.runtimeconfig.json
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\bin\Debug\net5.0\TcpNetworkStreamClient.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\bin\Debug\net5.0\TcpNetworkStreamClient.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\bin\Debug\net5.0\ref\TcpNetworkStreamClient.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\bin\Debug\net5.0\TcpNetworkStreamClient.pdb
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\TcpNetworkStreamClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\TcpNetworkStreamClient.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\TcpNetworkStreamClient.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\TcpNetworkStreamClient.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\TcpNetworkStreamClient.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\ref\TcpNetworkStreamClient.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\TcpNetworkStreamClient.pdb
+C:\Users\byh\source\repos\Network\TcpNetworkStreamClient\TcpNetworkStreamClient\obj\Debug\net5.0\TcpNetworkStreamClient.genruntimeconfig.cache

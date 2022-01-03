@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\bin\Debug\net5.0\TcpClient02.exe
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\bin\Debug\net5.0\TcpClient02.deps.json
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\bin\Debug\net5.0\TcpClient02.runtimeconfig.json
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\bin\Debug\net5.0\TcpClient02.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\bin\Debug\net5.0\TcpClient02.dll
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\bin\Debug\net5.0\ref\TcpClient02.dll
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\bin\Debug\net5.0\TcpClient02.pdb
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\TcpClient02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\TcpClient02.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\TcpClient02.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\TcpClient02.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\TcpClient02.dll
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\ref\TcpClient02.dll
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\TcpClient02.pdb
+C:\Users\byh\source\repos\Network\TcpClient02\TcpClient02\obj\Debug\net5.0\TcpClient02.genruntimeconfig.cache

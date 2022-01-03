@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\bin\Debug\net5.0\IPEndPoint01.exe
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\bin\Debug\net5.0\IPEndPoint01.deps.json
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\bin\Debug\net5.0\IPEndPoint01.runtimeconfig.json
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\bin\Debug\net5.0\IPEndPoint01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\bin\Debug\net5.0\IPEndPoint01.dll
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\bin\Debug\net5.0\ref\IPEndPoint01.dll
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\bin\Debug\net5.0\IPEndPoint01.pdb
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\IPEndPoint01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\IPEndPoint01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\IPEndPoint01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\IPEndPoint01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\IPEndPoint01.dll
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\ref\IPEndPoint01.dll
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\IPEndPoint01.pdb
+C:\Users\byh\source\repos\Network\IPEndPoint\IPEndPoint\obj\Debug\net5.0\IPEndPoint01.genruntimeconfig.cache

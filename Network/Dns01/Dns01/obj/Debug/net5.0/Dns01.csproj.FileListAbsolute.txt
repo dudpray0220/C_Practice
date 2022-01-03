@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\Dns01\Dns01\bin\Debug\net5.0\Dns01.exe
+C:\Users\byh\source\repos\Network\Dns01\Dns01\bin\Debug\net5.0\Dns01.deps.json
+C:\Users\byh\source\repos\Network\Dns01\Dns01\bin\Debug\net5.0\Dns01.runtimeconfig.json
+C:\Users\byh\source\repos\Network\Dns01\Dns01\bin\Debug\net5.0\Dns01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\Dns01\Dns01\bin\Debug\net5.0\Dns01.dll
+C:\Users\byh\source\repos\Network\Dns01\Dns01\bin\Debug\net5.0\ref\Dns01.dll
+C:\Users\byh\source\repos\Network\Dns01\Dns01\bin\Debug\net5.0\Dns01.pdb
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\Dns01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\Dns01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\Dns01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\Dns01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\Dns01.dll
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\ref\Dns01.dll
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\Dns01.pdb
+C:\Users\byh\source\repos\Network\Dns01\Dns01\obj\Debug\net5.0\Dns01.genruntimeconfig.cache

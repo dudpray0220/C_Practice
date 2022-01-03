@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\bin\Debug\net5.0\TcpNetworkStreamServer.exe
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\bin\Debug\net5.0\TcpNetworkStreamServer.deps.json
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\bin\Debug\net5.0\TcpNetworkStreamServer.runtimeconfig.json
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\bin\Debug\net5.0\TcpNetworkStreamServer.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\bin\Debug\net5.0\TcpNetworkStreamServer.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\bin\Debug\net5.0\ref\TcpNetworkStreamServer.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\bin\Debug\net5.0\TcpNetworkStreamServer.pdb
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\ref\TcpNetworkStreamServer.dll
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.pdb
+C:\Users\byh\source\repos\Network\TcpNetworkStreamServer\TcpNetworkStreamServer\obj\Debug\net5.0\TcpNetworkStreamServer.genruntimeconfig.cache
