@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\Thread08\Thread08\bin\Debug\net5.0\Thread08.exe
+C:\Users\byh\source\repos\Network\Thread08\Thread08\bin\Debug\net5.0\Thread08.deps.json
+C:\Users\byh\source\repos\Network\Thread08\Thread08\bin\Debug\net5.0\Thread08.runtimeconfig.json
+C:\Users\byh\source\repos\Network\Thread08\Thread08\bin\Debug\net5.0\Thread08.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\Thread08\Thread08\bin\Debug\net5.0\Thread08.dll
+C:\Users\byh\source\repos\Network\Thread08\Thread08\bin\Debug\net5.0\ref\Thread08.dll
+C:\Users\byh\source\repos\Network\Thread08\Thread08\bin\Debug\net5.0\Thread08.pdb
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\Thread08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\Thread08.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\Thread08.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\Thread08.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\Thread08.dll
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\ref\Thread08.dll
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\Thread08.pdb
+C:\Users\byh\source\repos\Network\Thread08\Thread08\obj\Debug\net5.0\Thread08.genruntimeconfig.cache

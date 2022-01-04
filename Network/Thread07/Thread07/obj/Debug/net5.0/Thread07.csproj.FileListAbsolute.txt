@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\Thread07\Thread07\bin\Debug\net5.0\Thread07.exe
+C:\Users\byh\source\repos\Network\Thread07\Thread07\bin\Debug\net5.0\Thread07.deps.json
+C:\Users\byh\source\repos\Network\Thread07\Thread07\bin\Debug\net5.0\Thread07.runtimeconfig.json
+C:\Users\byh\source\repos\Network\Thread07\Thread07\bin\Debug\net5.0\Thread07.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\Thread07\Thread07\bin\Debug\net5.0\Thread07.dll
+C:\Users\byh\source\repos\Network\Thread07\Thread07\bin\Debug\net5.0\ref\Thread07.dll
+C:\Users\byh\source\repos\Network\Thread07\Thread07\bin\Debug\net5.0\Thread07.pdb
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\Thread07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\Thread07.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\Thread07.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\Thread07.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\Thread07.dll
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\ref\Thread07.dll
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\Thread07.pdb
+C:\Users\byh\source\repos\Network\Thread07\Thread07\obj\Debug\net5.0\Thread07.genruntimeconfig.cache
