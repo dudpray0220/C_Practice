@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\bin\Debug\net5.0\ThreadMonitor01.exe
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\bin\Debug\net5.0\ThreadMonitor01.deps.json
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\bin\Debug\net5.0\ThreadMonitor01.runtimeconfig.json
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\bin\Debug\net5.0\ThreadMonitor01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\bin\Debug\net5.0\ThreadMonitor01.dll
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\bin\Debug\net5.0\ref\ThreadMonitor01.dll
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\bin\Debug\net5.0\ThreadMonitor01.pdb
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.dll
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ref\ThreadMonitor01.dll
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.pdb
+C:\Users\byh\source\repos\Network\ThreadMonitor01\ThreadMonitor01\obj\Debug\net5.0\ThreadMonitor01.genruntimeconfig.cache

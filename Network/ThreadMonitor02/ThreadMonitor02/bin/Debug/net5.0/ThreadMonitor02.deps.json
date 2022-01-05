@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThreadMonitor02/1.0.0": {
+        "runtime": {
+          "ThreadMonitor02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadMonitor02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

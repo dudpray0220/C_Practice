@@ -1,0 +1,15 @@
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ThreadLock03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ThreadLock03.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ThreadLock03.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ThreadLock03.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\bin\Debug\net5.0\ThreadLock03.exe
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\bin\Debug\net5.0\ThreadLock03.deps.json
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\bin\Debug\net5.0\ThreadLock03.runtimeconfig.json
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\bin\Debug\net5.0\ThreadLock03.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\bin\Debug\net5.0\ThreadLock03.dll
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\bin\Debug\net5.0\ref\ThreadLock03.dll
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\bin\Debug\net5.0\ThreadLock03.pdb
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ThreadLock03.dll
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ref\ThreadLock03.dll
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ThreadLock03.pdb
+C:\Users\byh\source\repos\Network\ThreadLock03\ThreadLock03\obj\Debug\net5.0\ThreadLock03.genruntimeconfig.cache
