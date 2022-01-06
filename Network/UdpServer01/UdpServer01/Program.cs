@@ -14,7 +14,7 @@ namespace UdpServer01
         {
             // server
             UdpClient udpServer = new UdpClient("localhost", 3000);
-            udpServer.
+            udpServer.co
         }
     }
 }
