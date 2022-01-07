@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\bin\Debug\net5.0\Single.exe
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\bin\Debug\net5.0\Single.deps.json
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\bin\Debug\net5.0\Single.runtimeconfig.json
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\bin\Debug\net5.0\Single.runtimeconfig.dev.json
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\bin\Debug\net5.0\Single.dll
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\bin\Debug\net5.0\ref\Single.dll
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\bin\Debug\net5.0\Single.pdb
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.AssemblyInfo.cs
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.dll
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\ref\Single.dll
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.pdb
+C:\Users\byh\source\repos\DesignPattern\SingletonPattern01\Single\obj\Debug\net5.0\Single.genruntimeconfig.cache
