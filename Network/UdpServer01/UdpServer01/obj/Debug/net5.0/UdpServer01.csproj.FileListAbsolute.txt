@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\bin\Debug\net5.0\UdpServer01.exe
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\bin\Debug\net5.0\UdpServer01.deps.json
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\bin\Debug\net5.0\UdpServer01.runtimeconfig.json
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\bin\Debug\net5.0\UdpServer01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\bin\Debug\net5.0\UdpServer01.dll
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\bin\Debug\net5.0\ref\UdpServer01.dll
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\bin\Debug\net5.0\UdpServer01.pdb
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.AssemblyInfo.cs
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.dll
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\ref\UdpServer01.dll
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.pdb
+C:\Users\byh\source\repos\Network\UdpServer01\UdpServer01\obj\Debug\net5.0\UdpServer01.genruntimeconfig.cache

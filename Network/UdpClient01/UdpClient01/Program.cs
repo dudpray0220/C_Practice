@@ -12,19 +12,25 @@ namespace UdpClient01
     {
         static void Main(string[] args)
         {
-            UdpClient udpClient = new UdpClient("localhost", 3000);
+            // UdpClient 객체 생성
+            UdpClient cli = new UdpClient();
 
-            string message = "Hi Hello Friend";
-            byte[] SendMessage = Encoding.ASCII.GetBytes(message);
+            string msg = "Hello World~";
+            byte[] datagram = Encoding.ASCII.GetBytes(msg);
 
-            udpClient.Send(SendMessage, SendMessage.Length);
-            Console.WriteLine("{0} 바이트 전송", SendMessage.Length);
+            // Send Data
+            cli.Send(datagram, datagram.Length, "127.0.0.1", 3000);
+            Console.WriteLine("[Send] 127.0.0.1:3000로 {0} 바이트 전송", datagram.Length);
 
-            IPEndPoint epRemote = new IPEndPoint(IPAddress.Any, 3000);
-            byte[] bytes = udpClient.Receive(ref epRemote);
-            Console.WriteLine("{0}로부터 {1} 바이트 수신", epRemote.ToString(), bytes.Length);
+            // Receive Data
+            // 서버 IP를 담을 변수 생성
+            IPEndPoint epRemote = new IPEndPoint(IPAddress.Any, 0);
+            byte[] bytes = cli.Receive(ref epRemote);
+            string rMessage = Encoding.ASCII.GetString(bytes);
+            Console.WriteLine("[Receive] {0} 로부터 {1} 바이트 수신, 수신 내용 : {2}", epRemote.ToString(), bytes.Length, rMessage);
 
-            udpClient.Close();
+            // UdpClient 객체 닫기
+            cli.Close();
         }
     }
 }
