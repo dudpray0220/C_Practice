@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\bin\Debug\net5.0\DBConnection01.exe
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\bin\Debug\net5.0\DBConnection01.deps.json
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\bin\Debug\net5.0\DBConnection01.runtimeconfig.json
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\bin\Debug\net5.0\DBConnection01.runtimeconfig.dev.json
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\bin\Debug\net5.0\DBConnection01.dll
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\bin\Debug\net5.0\ref\DBConnection01.dll
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\bin\Debug\net5.0\DBConnection01.pdb
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.AssemblyInfo.cs
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.dll
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\ref\DBConnection01.dll
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.pdb
+C:\Users\byh\source\repos\DB\DBConnection01\DBConnection01\obj\Debug\net5.0\DBConnection01.genruntimeconfig.cache

@@ -7,7 +7,12 @@ namespace AbstractFactoryPattern01
     {
         static void Main(string[] args)
         {
-
+            
         }
+    }
+    
+    abstract class AbstractFactory
+    {
+        
     }
 }
