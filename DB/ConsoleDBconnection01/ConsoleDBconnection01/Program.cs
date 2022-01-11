@@ -16,7 +16,7 @@ namespace ConsoleDBconnection01
                 {
                     conn.Open();
                 }
-                Console.WriteLine("Success");
+                Console.WriteLine("Connection Success");
                 return true;
             }
             catch (Exception e)
@@ -122,8 +122,8 @@ namespace ConsoleDBconnection01
             MariaDBTester mariaDBTester = new MariaDBTester();
             MariaDBTester.ConnectionTest(); // static 메서드
             //mariaDBTester.SelectDB(); // instance 메서드
-            mariaDBTester.InsertDB();
-            mariaDBTester.UpdateDB();
+            //mariaDBTester.InsertDB();
+            //mariaDBTester.UpdateDB();
             //mariaDBTester.DeleteDB();
             Console.WriteLine();
             mariaDBTester.GetUser();
