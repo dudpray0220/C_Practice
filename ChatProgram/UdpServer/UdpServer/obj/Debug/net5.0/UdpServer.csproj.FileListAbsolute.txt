@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\bin\Debug\net5.0\UdpServer.exe
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\bin\Debug\net5.0\UdpServer.deps.json
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\bin\Debug\net5.0\UdpServer.runtimeconfig.json
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\bin\Debug\net5.0\UdpServer.runtimeconfig.dev.json
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\bin\Debug\net5.0\UdpServer.dll
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\bin\Debug\net5.0\ref\UdpServer.dll
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\bin\Debug\net5.0\UdpServer.pdb
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.AssemblyInfo.cs
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.dll
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\ref\UdpServer.dll
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.pdb
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.genruntimeconfig.cache
+C:\Users\byh\source\repos\ChatProgram\UdpServer\UdpServer\obj\Debug\net5.0\UdpServer.csproj.AssemblyReference.cache

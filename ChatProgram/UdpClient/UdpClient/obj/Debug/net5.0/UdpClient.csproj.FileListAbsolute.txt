@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\bin\Debug\net5.0\UdpClient.exe
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\bin\Debug\net5.0\UdpClient.deps.json
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\bin\Debug\net5.0\UdpClient.runtimeconfig.json
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\bin\Debug\net5.0\UdpClient.runtimeconfig.dev.json
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\bin\Debug\net5.0\UdpClient.dll
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\bin\Debug\net5.0\ref\UdpClient.dll
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\bin\Debug\net5.0\UdpClient.pdb
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.AssemblyInfo.cs
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.dll
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\ref\UdpClient.dll
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.pdb
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.genruntimeconfig.cache
+C:\Users\byh\source\repos\ChatProgram\UdpClient\UdpClient\obj\Debug\net5.0\UdpClient.csproj.AssemblyReference.cache
