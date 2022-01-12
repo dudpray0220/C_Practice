@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\bin\Debug\net5.0\AsynTest.exe
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\bin\Debug\net5.0\AsynTest.deps.json
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\bin\Debug\net5.0\AsynTest.runtimeconfig.json
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\bin\Debug\net5.0\AsynTest.runtimeconfig.dev.json
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\bin\Debug\net5.0\AsynTest.dll
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\bin\Debug\net5.0\ref\AsynTest.dll
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\bin\Debug\net5.0\AsynTest.pdb
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.AssemblyInfo.cs
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.dll
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\ref\AsynTest.dll
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.pdb
+C:\Users\byh\source\repos\ChatProgram\AsynTest\AsynTest\obj\Debug\net5.0\AsynTest.genruntimeconfig.cache
