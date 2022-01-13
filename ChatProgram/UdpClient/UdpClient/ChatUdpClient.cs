@@ -70,6 +70,7 @@ namespace UdpClientChat
         {
             // Connection
             client = new UdpClient();
+            //client.Connect("127.0.0.1", 3000);
             Console.WriteLine("서버 연결 성공! 이제 Message를 입력해주세요!");
             Console.ReadKey();
         }

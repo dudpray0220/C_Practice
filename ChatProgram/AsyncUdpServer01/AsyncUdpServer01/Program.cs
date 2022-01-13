@@ -40,8 +40,8 @@ namespace AsyncUdpServer01
 
             while (true)
             {
-                //Console.WriteLine("서버 구동 중...");
-                //Thread.Sleep(1000);
+                Console.WriteLine("서버 구동 중...");
+                Thread.Sleep(1000);
             }
         }
 

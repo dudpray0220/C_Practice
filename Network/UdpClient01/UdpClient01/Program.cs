@@ -14,6 +14,7 @@ namespace UdpClient01
         {
             // UdpClient 객체 생성
             UdpClient cli = new UdpClient();
+           // cli.Connect("127.0.0.2", 3000);
 
             string msg = "Hello World~";
             byte[] datagram = Encoding.ASCII.GetBytes(msg);

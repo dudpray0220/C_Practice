@@ -13,7 +13,8 @@ namespace ConsoleUdpChatClient
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ConsoleClient consoleClient = new ConsoleClient();
+            consoleClient.Run();
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\bin\Debug\net5.0\ConsoleUdpChatClient.exe
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\bin\Debug\net5.0\ConsoleUdpChatClient.deps.json
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\bin\Debug\net5.0\ConsoleUdpChatClient.runtimeconfig.json
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\bin\Debug\net5.0\ConsoleUdpChatClient.runtimeconfig.dev.json
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\bin\Debug\net5.0\ConsoleUdpChatClient.dll
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\bin\Debug\net5.0\ref\ConsoleUdpChatClient.dll
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\bin\Debug\net5.0\ConsoleUdpChatClient.pdb
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.AssemblyInfoInputs.cache
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.AssemblyInfo.cs
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.dll
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ref\ConsoleUdpChatClient.dll
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.pdb
+C:\Users\byh\source\repos\ChatProgram\ConsoleUdpChatClient\ConsoleUdpChatClient\obj\Debug\net5.0\ConsoleUdpChatClient.genruntimeconfig.cache

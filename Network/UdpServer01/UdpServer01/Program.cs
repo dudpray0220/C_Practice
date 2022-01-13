@@ -21,7 +21,7 @@ namespace UdpServer01
             {
                 // Receive Data
                 byte[] dgram = srv.Receive(ref remoteEP);
-                string rMessage = Encoding.ASCII.GetString(dgram);
+                string rMessage = Encoding.Default.GetString(dgram);
                 Console.WriteLine("[Receive] {0} 로부터 {1} 바이트 수신, 수신내용 : {2}", remoteEP.ToString(), dgram.Length, rMessage);
 
                 // Send Data
