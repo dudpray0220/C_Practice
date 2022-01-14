@@ -18,7 +18,7 @@ namespace ConsoleChatClient
         // 클라이언트 메인 메서드
         public void Run()
         {
-            receiveMessageThread = new Thread(new ThreadStart(ReceiveMessage));
+            receiveMessageThread = new Thread(new ThreadStart(ReceiveMessage));  // 서버에서 메시지 받는 메서드는 스레드로 계속 돈다.
             while (true)
             {
                 Console.WriteLine("=================클라이언트=================");
@@ -51,7 +51,7 @@ namespace ConsoleChatClient
                             {
                                 if (client == null)
                                 {
-                                    Console.WriteLine("먼저 서버와 연결해라");
+                                    Console.WriteLine("먼저 서버와 연결해주세요~");
                                     Console.ReadKey();
                                 }
                                 else
@@ -87,11 +87,14 @@ namespace ConsoleChatClient
         {
             client = new UdpClient();
 
-            byte[] byteData = new byte[1024];
-            byteData = Encoding.Default.GetBytes("익명의 유저가 접속했습니다.");
-            client.Send(byteData, byteData.Length, "127.0.0.1", 3000);   
+            Console.WriteLine("이름을 입력해주세요");
+            string name = Console.ReadLine();
 
-            receiveMessageThread.Start();
+            byte[] byteData = new byte[1024];
+            byteData = Encoding.Default.GetBytes(name);
+            client.Send(byteData, byteData.Length, "127.0.0.1", 3000); // 이름 전송
+
+            receiveMessageThread.Start(); // 스레드 시작 전에 한번 연결을 해주어 에러 제거
 
             Console.WriteLine("서버 연결 성공! 이제 메시지를 보낼 수 있습니다~");
             Console.ReadKey();
@@ -100,16 +103,25 @@ namespace ConsoleChatClient
         // 메시지 전송 메서드
         private void SendMessage()
         {
-            Console.WriteLine("메시지를 입력해주세요");
-            string sMessage = Console.ReadLine();
+            Console.WriteLine("채팅 시작! (나가려면 exit를 입력해주세요)");
+            while (true)
+            {
+                string sMessage = Console.ReadLine();
 
-            //byte[] sendData = new byte[message.Length];    // 밑에거랑 뭐가 더 좋나?
-            //sendData = Encoding.Default.GetBytes(message);
+                if (sMessage == "exit")
+                {
+                    break;
+                }
 
-            byte[] sendData = Encoding.Default.GetBytes(sMessage);
-            client.Send(sendData, sendData.Length, "127.0.0.1", 3000);
-            Console.WriteLine("전송 성공!");
-            Console.ReadKey();
+                //byte[] sendData = new byte[message.Length];    // 밑에거랑 뭐가 더 좋나?
+                //sendData = Encoding.Default.GetBytes(message);
+
+                byte[] sendData = Encoding.Default.GetBytes(sMessage);
+                client.Send(sendData, sendData.Length, "127.0.0.1", 3000);
+                //Console.WriteLine("전송 성공!");
+                //Console.ReadKey();
+                
+            }
         }
 
         // 서버로 부터 메시지 받는 메서드 (비동기 스레드로 실행)
