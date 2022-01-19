@@ -1,0 +1,12 @@
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\test1.exe.config
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\test1.exe
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\test1.pdb
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\Griffin.Core.dll
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\Griffin.WebServer.dll
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\Griffin.Core.pdb
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\Griffin.Core.xml
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\Griffin.WebServer.pdb
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\bin\Debug\Griffin.WebServer.xml
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\obj\Debug\test1.exe
+C:\Users\byh\source\repos\Griffin_Practice\test1\test1\obj\Debug\test1.pdb

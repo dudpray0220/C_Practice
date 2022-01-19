@@ -1,0 +1,12 @@
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\demoInGit.exe.config
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\demoInGit.exe
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\demoInGit.pdb
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin.Core.dll
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin.WebServer.dll
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin.Core.pdb
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin.Core.xml
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin.WebServer.pdb
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin.WebServer.xml
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.csprojResolveAssemblyReference.cache
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.exe
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.pdb

@@ -86,13 +86,13 @@ namespace ConsoleChatClient
         private void Connect()
         {
             client = new UdpClient();
-
+        
             Console.WriteLine("이름을 입력해주세요");
             string name = Console.ReadLine();
 
             byte[] byteData = new byte[1024];
             byteData = Encoding.Default.GetBytes(name);
-            client.Send(byteData, byteData.Length, "127.0.0.1", 3000); // 이름 전송
+            client.Send(byteData, byteData.Length, "172.16.5.218", 3000); // 이름 전송
 
             receiveMessageThread.Start(); // 스레드 시작 전에 한번 연결을 해주어 에러 제거
 
@@ -117,7 +117,7 @@ namespace ConsoleChatClient
                 //sendData = Encoding.Default.GetBytes(message);
 
                 byte[] sendData = Encoding.Default.GetBytes(sMessage);
-                client.Send(sendData, sendData.Length, "127.0.0.1", 3000);
+                client.Send(sendData, sendData.Length, "172.16.5.218", 3000);
                 //Console.WriteLine("전송 성공!");
                 //Console.ReadKey();
                 

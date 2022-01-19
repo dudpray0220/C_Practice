@@ -5,7 +5,8 @@ C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\b
 C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\bin\Debug\net5.0\ConsoleChatClient.dll
 C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\bin\Debug\net5.0\ref\ConsoleChatClient.dll
 C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\bin\Debug\net5.0\ConsoleChatClient.pdb
-C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\obj\Debug\net5.0\ConsoleChatClient.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\obj\Debug\net5.0\ConsoleChatClient.Properties.Resources.resources
+C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\obj\Debug\net5.0\ConsoleChatClient.csproj.GenerateResource.cache
 C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\obj\Debug\net5.0\ConsoleChatClient.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\obj\Debug\net5.0\ConsoleChatClient.AssemblyInfoInputs.cache
 C:\Users\byh\source\repos\ChatUdp_version1\ConsoleChatClient\ConsoleChatClient\obj\Debug\net5.0\ConsoleChatClient.AssemblyInfo.cs
