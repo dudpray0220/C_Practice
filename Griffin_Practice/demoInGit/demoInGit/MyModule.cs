@@ -18,7 +18,7 @@ namespace demoInGit
         {
 
         }
-
+    
         public void HandleRequestAsync(IHttpContext context, Action<IAsyncModuleResult> callback)
         {
             // Since this module only supports sync
