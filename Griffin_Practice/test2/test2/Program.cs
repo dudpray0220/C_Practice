@@ -24,7 +24,7 @@ namespace test2
             }
         }
 
-        class MyModule : IHttpModule
+        class MyModule : IWorkerModule
         {
             public void BeginRequest(IHttpContext context)
             {
@@ -35,7 +35,7 @@ namespace test2
             {
 
             }
-            public bool Process(Ittp) 
+            public bool Process(ihttp) 
         }
     }
 

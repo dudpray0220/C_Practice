@@ -34,6 +34,7 @@ namespace demoInGit
             // Add the module
             moduleManager.Add(module);
             moduleManager.Add(new MyModule());
+
             moduleManager.Add(new MyModule2());
 
             // And start the server.

@@ -22,7 +22,7 @@ namespace sslTest1
             {
                 X509Store store = new X509Store(StoreName.Root, StoreLocation.LocalMachine);
                 store.Open(OpenFlags.ReadOnly);
-                var certificates = store.Certificates.Find(X509FindType.FindBySubjectDistinguishedName, "CN=localhost2", false);
+                var certificates = store.Certificates.Find(X509FindType.FindBySubjectDistinguishedName, "KO=Byh", false);
 
                 store.Close();
 
@@ -63,8 +63,8 @@ namespace sslTest1
             {
                 sslStream.AuthenticateAsServer(serverCertificate, false, SslProtocols.Tls, true);
                 // Set timeouts for the read and write to 5 seconds.
-                //sslStream.ReadTimeout = 5000;
-                //sslStream.WriteTimeout = 5000;
+                sslStream.ReadTimeout = 5000;
+                sslStream.WriteTimeout = 5000;
 
                 // Read a message from the client.
                 Console.WriteLine("클라이언트 메시지 대기 중...");
@@ -125,7 +125,9 @@ namespace sslTest1
                 {
                     break;
                 }
-            }
+            } while (bytes != 0);
+
+            return messageData.ToString();
         }
     }
     
@@ -133,6 +135,10 @@ namespace sslTest1
     {
         static void Main(string[] args)
         {
+            SslServer.RunServer();
+
+            Console.WriteLine("Press the any key to continue");
+            Console.ReadLine();
         }
     }
 }
