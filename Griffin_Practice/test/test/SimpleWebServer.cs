@@ -15,7 +15,7 @@ namespace test
     {
         #region Fields
 
-        private X509Certificate2 certificate;
+        private X509Certificate certificate;
         int port;
         private HttpServer _listener;
         private HttpWorker _worker;
@@ -26,7 +26,7 @@ namespace test
         #region Constructors
 
         // 생성자
-        public SimpleWebServer(string prefixes, X509Certificate2 certificate)
+        public SimpleWebServer(string prefixes, X509Certificate certificate)
         {
             Uri uri = new Uri(prefixes);
             this.port = uri.Port;
@@ -47,7 +47,7 @@ namespace test
             _worker.addUrlAction(path, method);
         }
 
-        // 서버 시작 (X509 인증서)
+        // 서버 시작 (X509 인증서  v3)
         public void Run()
         {
             _listener.Start(IPAddress.Any, port, certificate);
