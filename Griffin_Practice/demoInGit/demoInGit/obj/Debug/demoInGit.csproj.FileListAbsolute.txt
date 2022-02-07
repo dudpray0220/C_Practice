@@ -9,4 +9,7 @@ C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin
 C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\bin\Debug\Griffin.WebServer.xml
 C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.exe
 C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.pdb
-C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.csprojResolveAssemblyReference.cache
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.csproj.AssemblyReference.cache
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.csproj.SuggestedBindingRedirects.cache
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.csproj.CoreCompileInputs.cache
+C:\Users\byh\source\repos\Griffin_Practice\demoInGit\demoInGit\obj\Debug\demoInGit.csproj.CopyComplete

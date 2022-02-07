@@ -12,9 +12,10 @@ namespace TcpNetworkStreamClient
     {
         static void Main(string[] args)
         {
-            TcpClient tcpClient = new TcpClient("localhost", 7);
+            TcpClient tcpClient = new TcpClient("localhost", 7000);
             NetworkStream ns = tcpClient.GetStream();
             Console.WriteLine("클라이언트");
+
             byte[] Buffer = new byte[1024];
             byte[] SendMessage = Encoding.ASCII.GetBytes("Hello World!");
             ns.Write(SendMessage, 0, SendMessage.Length);
@@ -22,7 +23,7 @@ namespace TcpNetworkStreamClient
 
             while (TotalCount < SendMessage.Length)
             {
-                ReadCount = ns.Read(Buffer, 0, Buffer.Length);
+                ReadCount = ns.Read(Buffer, 0, Buffer.Length); // 서버로 부터 읽어옴
                 TotalCount += ReadCount;
 
                 string RecvMessage = Encoding.ASCII.GetString(Buffer);

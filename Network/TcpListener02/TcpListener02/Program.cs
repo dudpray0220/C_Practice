@@ -12,7 +12,7 @@ namespace TcpListener02
     {
         static void Main(string[] args)
         {
-            TcpListener tcpListener = new TcpListener(IPAddress.Parse("172.16.5.218"), 7);
+            TcpListener tcpListener = new TcpListener(IPAddress.Parse("192.168.0.28"), 7);
             tcpListener.Start();
             Console.WriteLine("대기상태 시작");
             TcpClient tcpClient = tcpListener.AcceptTcpClient(); // -> 대기상태
