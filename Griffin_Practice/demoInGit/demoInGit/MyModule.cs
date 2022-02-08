@@ -40,6 +40,7 @@ namespace demoInGit
         }
     }
 
+
     public class MyModule2 : IWorkerModule
     {
         public class ListenerNotifyEventArgs : EventArgs

@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using Griffin.Logging;
 using Griffin.Logging.Loggers;
+using Griffin.Net.Channels;
 using Griffin.WebServer;
 using Griffin.WebServer.Files;
 using Griffin.WebServer.Modules;
@@ -28,22 +30,19 @@ namespace demoInGit
             var module = new FileModule(fileService)
             {
                 AllowFileListing = true,
-
             };
 
             // Add the module
             moduleManager.Add(module);
             moduleManager.Add(new MyModule());
-
             moduleManager.Add(new MyModule2());
 
-            // And start the server.
+            // And start the server without SSL (http).
             var server = new HttpServer(moduleManager);
             server.Start(IPAddress.Any, 0);
             Console.WriteLine("PORT " + server.LocalPort);
 
-            TrySendARequest(server);
-
+            //TrySendARequest(server);
             Console.ReadLine();
         }
 
