@@ -32,14 +32,16 @@ namespace demoInGit
                 AllowFileListing = true,
             };
 
+
             // Add the module
             moduleManager.Add(module);
             moduleManager.Add(new MyModule());
             moduleManager.Add(new MyModule2());
 
+
             // And start the server without SSL (http).
             var server = new HttpServer(moduleManager);
-            server.Start(IPAddress.Any, 0);
+            server.Start(IPAddress.Any, 7000);
             Console.WriteLine("PORT " + server.LocalPort);
 
             //TrySendARequest(server);
