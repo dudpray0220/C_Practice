@@ -4,28 +4,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
+using Dapper;
+using System.Data;
+using System.Collections;
 
-namespace M_AppTest
+namespace DBManager
 {
     // 인터페이스 선언
-    public interface ITLDatabase
-    {
-        void Init(string server, string database, string port, string id, string pwd);
-        void Connect();
-        void Disconnect();
-        object ExcuteQuery(string query);     // select는 가변 string이기 때문에 ExcuteQuery를 쓴다. 
-        int ExcuteNonQuery(string query);   // Insert, Update, Delete 는 return 값이 숫자이기 때문에 ExcuteNonQuery를 쓴다.
-    }
+    //public interface ITLDatabase
+    //{
+    //    void Init(string server, string database, string port, string id, string pwd);
+    //    void Connect();
+    //    void Disconnect();
+    //    object ExcuteQuery(string query);     // select는 가변 string이기 때문에 ExcuteQuery를 쓴다. 
+    //    int ExcuteNonQuery(string query);   // Insert, Update, Delete 는 return 값이 숫자이기 때문에 ExcuteNonQuery를 쓴다.
+    //}
 
-    internal class Database 
+    // 클래스 선언
+    public class Database
     {
-        // DB 연결정보
+        // DB 연결정보로 연결생성
         MySqlConnection m_sqlcon = null;
         public void Init(string server, string database, string port, string id, string pwd)
         {
             string connInfo = string.Format("Server={0}; Database={1}; Port={2}; Uid={3}; Pwd={4};", server, database, port, id, pwd);
             m_sqlcon = new MySqlConnection(connInfo);
         }
+
         // DB 연결 메서드
         public void Connect()
         {
@@ -55,6 +60,7 @@ namespace M_AppTest
             }
         }
 
+        // 쿼리실행 Insert, Update, Delete 는 return 값이 숫자이기 때문에 ExcuteNonQuery
         public int ExcuteNonQuery(string query)
         {
             try
@@ -74,6 +80,7 @@ namespace M_AppTest
             int ret = 0;
             MySqlCommand cmd = null;
             MySqlTransaction tran = null;
+
             try
             {
                 cmd = m_sqlcon.CreateCommand();
@@ -84,6 +91,7 @@ namespace M_AppTest
                 System.Diagnostics.Trace.WriteLine(_e.Message);
                 return -1;
             }
+
             try
             {
                 for (int i = 0; i < query.Length; i++)

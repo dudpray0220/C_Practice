@@ -29,8 +29,7 @@
         private void InitializeComponent()
         {
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
-            this.toolStripLabel2 = new System.Windows.Forms.ToolStripLabel();
+            this.toolStripFileWrite = new System.Windows.Forms.ToolStripLabel();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -53,31 +52,28 @@
             this.btn_Conn = new System.Windows.Forms.Button();
             this.btn_Disconn = new System.Windows.Forms.Button();
             this.label10 = new System.Windows.Forms.Label();
+            this.btn_Delete = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.textDatetime = new System.Windows.Forms.TextBox();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // toolStrip1
             // 
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripLabel1,
-            this.toolStripLabel2});
+            this.toolStripFileWrite});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(805, 25);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "발송테스트";
             // 
-            // toolStripLabel1
+            // toolStripFileWrite
             // 
-            this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(68, 22);
-            this.toolStripLabel1.Text = "Table Insert";
-            // 
-            // toolStripLabel2
-            // 
-            this.toolStripLabel2.Name = "toolStripLabel2";
-            this.toolStripLabel2.Size = new System.Drawing.Size(57, 22);
-            this.toolStripLabel2.Text = "Write File";
+            this.toolStripFileWrite.Name = "toolStripFileWrite";
+            this.toolStripFileWrite.Size = new System.Drawing.Size(57, 22);
+            this.toolStripFileWrite.Text = "File Write";
+            this.toolStripFileWrite.Click += new System.EventHandler(this.toolStripFileWrite_Click);
             // 
             // label1
             // 
@@ -91,7 +87,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(413, 218);
+            this.label2.Location = new System.Drawing.Point(303, 218);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(59, 15);
             this.label2.TabIndex = 1;
@@ -100,7 +96,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(249, 218);
+            this.label3.Location = new System.Drawing.Point(196, 218);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(31, 15);
             this.label3.TabIndex = 1;
@@ -115,14 +111,14 @@
             // 
             // textTemplate
             // 
-            this.textTemplate.Location = new System.Drawing.Point(402, 239);
+            this.textTemplate.Location = new System.Drawing.Point(292, 239);
             this.textTemplate.Name = "textTemplate";
             this.textTemplate.Size = new System.Drawing.Size(82, 23);
             this.textTemplate.TabIndex = 2;
             // 
             // textName
             // 
-            this.textName.Location = new System.Drawing.Point(224, 239);
+            this.textName.Location = new System.Drawing.Point(171, 239);
             this.textName.Name = "textName";
             this.textName.Size = new System.Drawing.Size(82, 23);
             this.textName.TabIndex = 2;
@@ -275,17 +271,47 @@
             this.label10.TabIndex = 1;
             this.label10.Text = "DB";
             // 
+            // btn_Delete
+            // 
+            this.btn_Delete.Location = new System.Drawing.Point(590, 340);
+            this.btn_Delete.Name = "btn_Delete";
+            this.btn_Delete.Size = new System.Drawing.Size(183, 23);
+            this.btn_Delete.TabIndex = 5;
+            this.btn_Delete.Text = "MariaDB All Data Delete";
+            this.btn_Delete.UseVisualStyleBackColor = true;
+            this.btn_Delete.Click += new System.EventHandler(this.btn_Delete_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(464, 218);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(56, 15);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Datetime";
+            // 
+            // textDatetime
+            // 
+            this.textDatetime.Location = new System.Drawing.Point(409, 239);
+            this.textDatetime.Name = "textDatetime";
+            this.textDatetime.Size = new System.Drawing.Size(159, 23);
+            this.textDatetime.TabIndex = 2;
+            this.textDatetime.Text = "0000-00-00 00:00:00";
+            this.textDatetime.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(805, 405);
+            this.Controls.Add(this.btn_Delete);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.Btn_Insert);
             this.Controls.Add(this.btn_Disconn);
             this.Controls.Add(this.btn_Conn);
             this.Controls.Add(this.btn_Init);
             this.Controls.Add(this.textName);
+            this.Controls.Add(this.textDatetime);
             this.Controls.Add(this.textTemplate);
             this.Controls.Add(this.textPwd);
             this.Controls.Add(this.textUid);
@@ -293,6 +319,7 @@
             this.Controls.Add(this.textDBName);
             this.Controls.Add(this.textIP);
             this.Controls.Add(this.textNumber);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label9);
@@ -304,7 +331,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.toolStrip1);
             this.Name = "Form1";
-            this.Text = "AppTest";
+            this.Text = "Table Insert";
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -315,8 +342,7 @@
         #endregion
 
         private System.Windows.Forms.ToolStrip toolStrip1;
-        private System.Windows.Forms.ToolStripLabel toolStripLabel1;
-        private System.Windows.Forms.ToolStripLabel toolStripLabel2;
+        private System.Windows.Forms.ToolStripLabel toolStripFileWrite;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
@@ -339,5 +365,8 @@
         private System.Windows.Forms.Button btn_Conn;
         private System.Windows.Forms.Button btn_Disconn;
         private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Button btn_Delete;
+        private System.Windows.Forms.Label label4;
+        protected System.Windows.Forms.TextBox textDatetime;
     }
 }

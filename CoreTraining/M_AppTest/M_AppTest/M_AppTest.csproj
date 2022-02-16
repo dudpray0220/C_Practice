@@ -8,7 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
     <PackageReference Include="MySql.Data" Version="8.0.28" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DBManager">
+      <HintPath>..\..\DBManager\DBManager\bin\Debug\net5.0\DBManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Select_Write">
+      <HintPath>..\..\Select_Write\Select_Write\bin\Debug\net5.0\Select_Write.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
