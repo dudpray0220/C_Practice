@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 using System.Collections;
+using System.IO;
 
 namespace Select_Write
 {
@@ -55,6 +56,58 @@ namespace Select_Write
             {
                 System.Diagnostics.Trace.WriteLine(e.Message);
                 return null;
+            }
+        }
+
+        // reservedsenddata 테이블에 status, filename 업데이트
+        public int reservedUpdate(string query)
+        {
+            MySqlConnection m_sqlcon = new MySqlConnection(ConnString);
+            m_sqlcon.Open();
+
+            try
+            {
+                MySqlCommand cmd = new MySqlCommand(query, m_sqlcon);
+                return cmd.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+                System.Diagnostics.Trace.WriteLine(e.Message);
+                return -1;
+            }
+        }
+
+        public void moveFile()
+        {
+            string folderName = @"C:\Mstation\data\temp\";
+            string newFolderName = @"C:\Mstation\data\snd\";
+            DirectoryInfo directory = new DirectoryInfo(folderName);
+
+            foreach (FileInfo file in directory.GetFiles())
+            {
+                if (file.Extension.ToLower().CompareTo(".lock") == 0)
+                {
+                    string fileNameOnly = file.Name.Substring(0, file.Name.Length - 5) + ".snd";     // 확장자만 뺀 후 .snd로 교체
+                    string fullFileName = file.FullName;
+                    File.Move(fullFileName, newFolderName + fileNameOnly);
+                }
+            }
+        }
+
+        public void moveReset()
+        {
+            string folderName = @"C:\Mstation\data\snd\";
+            string newFolderName = @"C:\Mstation\data\temp\";
+            DirectoryInfo directory = new DirectoryInfo(folderName);
+
+            foreach (FileInfo file in directory.GetFiles())
+            {
+                if (file.Extension.ToLower().CompareTo(".snd") == 0)
+                {
+                    string fileNameOnly = file.Name.Substring(0, file.Name.Length - 4) + ".lock";     // 확장자만 뺀 후 .snd로 교체
+                    string fullFileName = file.FullName;
+                    File.Move(fullFileName, newFolderName + fileNameOnly);
+                }
             }
         }
     }

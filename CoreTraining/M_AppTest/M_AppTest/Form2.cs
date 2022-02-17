@@ -33,5 +33,32 @@ namespace M_AppTest
             selectWrite_DB.Select_FileWrite(query);
             //dataGridView1.DataSource = selectWrite_DB.Select_FileWrite(query).Tables[0];
         }
+
+        private void btn_ReservedUpdate_Click(object sender, EventArgs e)
+        {
+            string query = @"UPDATE reservedsenddata a
+                                INNER JOIN formmgmt b
+                                ON a.TemplateCode = b.TemplateCode
+                                SET a.`STATUS` = '재발송', a.FILENAME = '00001_11001_20180725_0808_173017'
+                                WHERE STATUS = '미발송' AND
+                                NOW() > BALSONG_DT";
+            selectWrite_DB.reservedUpdate(query);
+        }
+
+        private void btn_ReservedReset_Click(object sender, EventArgs e)
+        {
+            string query = "UPDATE reservedsenddata SET STATUS = '미발송', FILENAME = '0'";
+            selectWrite_DB.reservedUpdate(query);
+        }
+
+        private void btn_FileMove_Click(object sender, EventArgs e)
+        {
+            selectWrite_DB.moveFile();
+        }
+
+        private void btn_FileMoveReset_Click(object sender, EventArgs e)
+        {
+            selectWrite_DB.moveReset();
+        }
     }
 }

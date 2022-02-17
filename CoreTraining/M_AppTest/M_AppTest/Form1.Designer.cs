@@ -55,13 +55,15 @@
             this.btn_Delete = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.textDatetime = new System.Windows.Forms.TextBox();
+            this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // toolStrip1
             // 
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripFileWrite});
+            this.toolStripFileWrite,
+            this.toolStripLabel1});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(805, 25);
@@ -71,8 +73,8 @@
             // toolStripFileWrite
             // 
             this.toolStripFileWrite.Name = "toolStripFileWrite";
-            this.toolStripFileWrite.Size = new System.Drawing.Size(57, 22);
-            this.toolStripFileWrite.Text = "File Write";
+            this.toolStripFileWrite.Size = new System.Drawing.Size(105, 22);
+            this.toolStripFileWrite.Text = "File Write(ver.Test)";
             this.toolStripFileWrite.Click += new System.EventHandler(this.toolStripFileWrite_Click);
             // 
             // label1
@@ -299,6 +301,13 @@
             this.textDatetime.Text = "0000-00-00 00:00:00";
             this.textDatetime.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
+            // toolStripLabel1
+            // 
+            this.toolStripLabel1.Name = "toolStripLabel1";
+            this.toolStripLabel1.Size = new System.Drawing.Size(106, 22);
+            this.toolStripLabel1.Text = "File Write(ver.Real)";
+            this.toolStripLabel1.Click += new System.EventHandler(this.toolStripLabel1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -368,5 +377,6 @@
         private System.Windows.Forms.Button btn_Delete;
         private System.Windows.Forms.Label label4;
         protected System.Windows.Forms.TextBox textDatetime;
+        private System.Windows.Forms.ToolStripLabel toolStripLabel1;
     }
 }

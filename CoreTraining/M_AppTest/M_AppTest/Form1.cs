@@ -55,5 +55,10 @@ namespace M_AppTest
         {
             new Form2().ShowDialog();   // 모달로 새 창 띄움
         }
+
+        private void toolStripLabel1_Click(object sender, EventArgs e)
+        {
+            new Form3().ShowDialog();   // 모달로 새 창 띄움
+        }
     }
 }

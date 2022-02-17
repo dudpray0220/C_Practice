@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendProcess", "SendProcess\SendProcess.csproj", "{BB88AE17-FEDB-4308-85D2-D27B3016037B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB88AE17-FEDB-4308-85D2-D27B3016037B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB88AE17-FEDB-4308-85D2-D27B3016037B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB88AE17-FEDB-4308-85D2-D27B3016037B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB88AE17-FEDB-4308-85D2-D27B3016037B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E1083D-311B-4FE3-9D44-F70DD2A9B73D}
+	EndGlobalSection
+EndGlobal
