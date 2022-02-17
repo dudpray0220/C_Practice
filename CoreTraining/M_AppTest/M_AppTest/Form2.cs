@@ -27,30 +27,11 @@ namespace M_AppTest
             InitializeComponent();
         }
 
-        private void btn_Init_Click(object sender, EventArgs e)
-        {
-            m_Database.Init(textIP.Text, textDBName.Text, textPort.Text, textUid.Text, textPwd.Text);
-        }
-
-        private void btn_Conn_Click(object sender, EventArgs e)
-        {
-            m_Database.Connect();
-        }
-
-        private void btn_Disconn_Click(object sender, EventArgs e)
-        {
-            m_Database.Disconnect();
-        }
-
-        private void btn_FormmgmtSelect_Click(object sender, EventArgs e, Task<dynamic> data)
+        private void btn_FormmgmtSelect_Click(object sender, EventArgs e)
         {
             string query = "SELECT Dept_Code, TemplateCode FROM formmgmt;";
-            selectWrite_DB.SelectFormmgmt(query);
-        }
-
-        private void btn_ReservedSelect_Click(object sender, EventArgs e)
-        {
-            selectWrite_DB.SelectReserved();
+            selectWrite_DB.Select_FileWrite(query);
+            //dataGridView1.DataSource = selectWrite_DB.Select_FileWrite(query).Tables[0];
         }
     }
 }

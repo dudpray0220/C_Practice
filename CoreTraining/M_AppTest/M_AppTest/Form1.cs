@@ -40,7 +40,7 @@ namespace M_AppTest
         private void Btn_Insert_Click(object sender, EventArgs e)
         {
             List<string> queryList = new List<string>();
-            queryList.Add(string.Format("Insert into reservedsenddata (JEONSONG_NO, SUSINJA_NM, TemplateCode, BALSONG_DT) values ('{0}', '{1}', '{2}', '{3}');", textNumber.Text, textName.Text, textTemplate.Text, textDatetime.Text));
+            queryList.Add(string.Format(@"Insert into reservedsenddata (JEONSONG_NO, SUSINJA_NM, TemplateCode, BALSONG_DT) values ('{0}', '{1}', '{2}', '{3}');", textNumber.Text, textName.Text, textTemplate.Text, textDatetime.Text));
             queryList.Add("INSERT INTO rsinfotable (RSLinkCode) VALUES (LAST_INSERT_ID());");
             m_Database.ExcuteTransaction(queryList.ToArray());
         }
