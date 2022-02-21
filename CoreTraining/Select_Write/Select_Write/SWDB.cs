@@ -37,7 +37,7 @@ namespace Select_Write
                 }
                 reader.Close(); // close를 안해주면 밑에서 MySqlDataAdapter 사용 시 예외 발생.
 
-                for (int i = 1; i < list.Count; i += 2) // 1, 3, 5, 7, ...
+                for (int i = 1; i < list.Count; i += 2) // 1, 3, 5, 7, ...   ---> 서식코드 찾기
                 {
                     string selectReservedQuery = String.Format(@"SELECT * from reservedsenddata 
                                         WHERE TemplateCode = '{0}' AND
