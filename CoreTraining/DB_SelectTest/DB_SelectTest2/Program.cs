@@ -71,7 +71,7 @@ namespace DB_SelectTest2
 
 
                     DataSet ds = new DataSet();
-                    for (int i = 1; i < list.Count; i += 2) 
+                    for (int i = 1; i < list.Count; i += 2)
                     {
                         string selectQuery = String.Format(@"SELECT * from reservedsenddata 
                                         WHERE TemplateCode = '{0}' AND
@@ -82,36 +82,53 @@ namespace DB_SelectTest2
                         Console.WriteLine(list[i]);
 
                         MySqlDataAdapter adapter = new MySqlDataAdapter(selectQuery, m_sqlcon);
-                        adapter.Fill(ds);
+                        adapter.Fill(ds);       // DataSet 채우기
                     }
 
-                    //ds.WriteXml(@"C:\Mstation\data\temp\00001_11001_20180725_1234_173017.lock");
                     string[] fields = new string[16]; // 테이블의 컬럼수가 16
                     string[] fields2 = new string[16]; // 테이블의 컬럼수가 16
-                    
-                    Console.WriteLine("행수: " + ds.Tables[0].Rows.Count);
-                    Console.WriteLine("열수: " + ds.Tables[0].Columns.Count + "\n");
-                    //string savePath = @"C:\Mstation\data\temp\00002_11001_20180725_0808_173017.lock";       // 파일 이름
-                    //File.WriteAllLines(savePath, fields);
+                                                       //DataRow dr = ds.Tables[0].Rows[0];
 
+                    Console.WriteLine("\n행수: " + ds.Tables[0].Rows.Count);
+                    Console.WriteLine("열수: " + ds.Tables[0].Columns.Count + "\n"); // 15
+                    string savePath = @"C:\Mstation\data\temp\00002_11001_20180725_3333_173017.lock";       // 파일 이름
+
+                    // 컬럼값 담기 for문
                     for (int i = 0; i < ds.Tables[0].Columns.Count; i++)
                     {
-                        fields[i] = ds.Tables[0].Columns[i].ToString();
+                        fields[i] = ds.Tables[0].Columns[i].ToString();     // 컬럼값을 돌면서 다 담음. 컬럼값 = fields[i]
                         Console.WriteLine(fields[i]);
-
-                        foreach (DataRow dr in ds.Tables[0].Rows)
-                        {                          //dr[컬럼의 이름이나 인덱스]
-                            //Console.WriteLine(dr[fields[i]].ToString());
-                            fields2[i] = dr[fields[i]].ToString();
-                        }
-                        Console.WriteLine(fields2[i]);
                         Console.WriteLine();
                     }
-                    string str_params = string.Join(",", fields);  //string 배열을  하나의 string 변수로 만들어줍니다.  사이사이에 ','를 삽입해주면서
-                    string str_params2 = string.Join(",", fields2);  //string 배열을  하나의 string 변수로 만들어줍니다.  사이사이에 ','를 삽입해주면서
-                    str_params = str_params.Substring(0, str_params.Length - 1);  //마지막에 들어가는  ',' 삭제 코드입니다.   이거 없이 그대로 사용하면 oledb error가 납니다.
-                    str_params2 = str_params.Substring(0, str_params.Length - 1);  //마지막에 들어가는  ',' 삭제 코드입니다.   이거 없이 그대로 사용하면 oledb error가 납니다.
-                    Console.WriteLine(str_params2);
+
+                    // 모든 Row값 담기 foreach문
+                    foreach (DataRow dr in ds.Tables[0].Rows)
+                    {
+                        // Row값 담기 for문
+                        for (int i = 1; i < ds.Tables[0].Columns.Count; i++)    // index는 빼고 담으니 int = 1 부터! / 마지막 MMS_STATUS는 14번째 인덱스!
+                        {
+                            fields2[i] = dr[fields[i]].ToString();
+                            Console.Write(fields2[i]);
+                        }
+
+                        string params3 = fields2[1] + "|" + fields2[9];     // 전송 양식 : 전송넘버|서식코드|나머지^나머지^나머지 (Index는 빼고)
+                        // 전송양식대로 파싱하는 for문
+                        for (int i = 2; i < ds.Tables[0].Columns.Count; i++)
+                        {
+                            if (i == 9) continue;  // 서식코드는 위에 추가했으니 continue
+                            params3 += fields2[i] + "^";
+                        }
+                        params3 = params3.Substring(0, params3.Length - 1);  // 마지막 ^ 제거
+                        Console.WriteLine("\n" + params3 + "\n");
+
+                        // 파일에 파싱한 전송 양식대로 한 줄씩 쓰기!
+                        using (StreamWriter outputFile = new StreamWriter(savePath, true))
+                        {
+                            outputFile.WriteLine(params3);
+                        }
+                    }
+
+                    //string str_params = string.Join(",", fields);  //string 배열을  하나의 string 변수로 만들어줍니다.  사이사이에 ','를 삽입해주면서
 
                     m_sqlcon.Close();
                 }
