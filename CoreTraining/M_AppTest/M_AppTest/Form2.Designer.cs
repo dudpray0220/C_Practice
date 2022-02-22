@@ -43,7 +43,7 @@
             this.btn_FormmgmtSelect.Name = "btn_FormmgmtSelect";
             this.btn_FormmgmtSelect.Size = new System.Drawing.Size(217, 23);
             this.btn_FormmgmtSelect.TabIndex = 0;
-            this.btn_FormmgmtSelect.Text = "서식, 발송연계 조회 후 File Write";
+            this.btn_FormmgmtSelect.Text = "File Write and Table UPDATE";
             this.btn_FormmgmtSelect.UseVisualStyleBackColor = true;
             this.btn_FormmgmtSelect.Click += new System.EventHandler(this.btn_FormmgmtSelect_Click);
             // 
@@ -82,7 +82,7 @@
             this.btn_FileMove.Name = "btn_FileMove";
             this.btn_FileMove.Size = new System.Drawing.Size(109, 23);
             this.btn_FileMove.TabIndex = 23;
-            this.btn_FileMove.Text = ".lock 파일 이동";
+            this.btn_FileMove.Text = "파일 이동";
             this.btn_FileMove.UseVisualStyleBackColor = true;
             this.btn_FileMove.Click += new System.EventHandler(this.btn_FileMove_Click);
             // 
@@ -100,7 +100,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(838, 450);
             this.Controls.Add(this.btn_FileMoveReset);
             this.Controls.Add(this.btn_FileMove);
             this.Controls.Add(this.btn_ReservedReset);

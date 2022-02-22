@@ -34,12 +34,13 @@ namespace M_AppTest
             //dataGridView1.DataSource = selectWrite_DB.Select_FileWrite(query).Tables[0];
         }
 
+        // 파일명 자동화를 위해서 첫 번쨰 버튼에 업데이트까지 구현!
         private void btn_ReservedUpdate_Click(object sender, EventArgs e)
         {
             string query = @"UPDATE reservedsenddata a
                                 INNER JOIN formmgmt b
                                 ON a.TemplateCode = b.TemplateCode
-                                SET a.`STATUS` = '재발송', a.FILENAME = '00001_11001_20180725_0808_173017'
+                                SET a.`STATUS` = '재발송', a.FILENAME = '00003_11001_20180725_3333_173017'
                                 WHERE STATUS = '미발송' AND
                                 NOW() > BALSONG_DT";
             selectWrite_DB.reservedUpdate(query);

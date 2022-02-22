@@ -76,7 +76,7 @@ namespace DB_SelectTest2
                         string selectQuery = String.Format(@"SELECT * from reservedsenddata 
                                         WHERE TemplateCode = '{0}' AND
                                         NOW() > BALSONG_DT AND
-                                        STATUS = '재발송'
+                                        STATUS = '미발송'
                                         ORDER BY BALSONG_DT LIMIT 5000;", list[i]); // list[i]는 서식코드
 
                         Console.WriteLine(list[i]);
@@ -91,7 +91,7 @@ namespace DB_SelectTest2
 
                     Console.WriteLine("\n행수: " + ds.Tables[0].Rows.Count);
                     Console.WriteLine("열수: " + ds.Tables[0].Columns.Count + "\n"); // 15
-                    string savePath = @"C:\Mstation\data\temp\00002_11001_20180725_3333_173017.lock";       // 파일 이름
+                    string savePath = @"C:\Mstation\data\temp\00001_11001_20180725_3333_173020.lock";       // 파일 이름
 
                     // 컬럼값 담기 for문
                     for (int i = 0; i < ds.Tables[0].Columns.Count; i++)
@@ -101,6 +101,7 @@ namespace DB_SelectTest2
                         Console.WriteLine();
                     }
 
+                    if (File.Exists(savePath)) File.Delete(savePath);   // 파일이 존재하면 삭제 후 생성
                     // 모든 Row값 담기 foreach문
                     foreach (DataRow dr in ds.Tables[0].Rows)
                     {
@@ -116,9 +117,8 @@ namespace DB_SelectTest2
                         for (int i = 2; i < ds.Tables[0].Columns.Count; i++)
                         {
                             if (i == 9) continue;  // 서식코드는 위에 추가했으니 continue
-                            params3 += fields2[i] + "^";
+                            params3 += "^" + fields2[i];
                         }
-                        params3 = params3.Substring(0, params3.Length - 1);  // 마지막 ^ 제거
                         Console.WriteLine("\n" + params3 + "\n");
 
                         // 파일에 파싱한 전송 양식대로 한 줄씩 쓰기!
@@ -129,6 +129,34 @@ namespace DB_SelectTest2
                     }
 
                     //string str_params = string.Join(",", fields);  //string 배열을  하나의 string 변수로 만들어줍니다.  사이사이에 ','를 삽입해주면서
+                    File.Move(savePath, savePath.Substring(0, savePath.Length - 5) + ".dm", true);    // 파일 다 쓰면 .lock 에서 .dm으로 변경 (unlock)
+
+                    string folderName = @"C:\Mstation\data\temp\";
+                    string newFolderName = @"C:\Mstation\data\dm\";
+                    string backUpFolderName = @"C:\Mstation\data\backup\";
+                    DirectoryInfo directory = new DirectoryInfo(folderName);
+
+                    // backup으로 복사 (overwrite 가능)
+                    foreach (FileInfo file in directory.GetFiles())
+                    {
+                        if (file.Extension.ToLower().CompareTo(".dm") == 0)
+                        {
+                            string fileNameOnly = file.Name;
+                            string fullFileName = file.FullName;
+                            File.Copy(fullFileName, backUpFolderName + fileNameOnly, true);
+                        }
+                    }
+
+                    // dm으로 이동 (overwrite 가능)
+                    foreach (FileInfo file in directory.GetFiles())
+                    {
+                        if (file.Extension.ToLower().CompareTo(".dm") == 0)
+                        {
+                            string fileNameOnly = file.Name;
+                            string fullFileName = file.FullName;
+                            File.Move(fullFileName, newFolderName + fileNameOnly, true);
+                        }
+                    }
 
                     m_sqlcon.Close();
                 }

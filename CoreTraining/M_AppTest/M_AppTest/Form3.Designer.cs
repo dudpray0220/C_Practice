@@ -63,7 +63,7 @@
             this.Controls.Add(this.btn_Stop);
             this.Controls.Add(this.btn_Start);
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "파일 쓰기";
             this.ResumeLayout(false);
 
         }
