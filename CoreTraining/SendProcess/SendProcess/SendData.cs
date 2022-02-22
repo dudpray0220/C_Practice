@@ -1,5 +1,4 @@
 ﻿using System;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,14 +14,14 @@ namespace SendProcess
     public class SendData
     {
         ArrayList list = new ArrayList();
-        MySqlConnection m_sqlcon = null;
         DirectoryInfo directory = null;
         Random random = new Random();     
         Thread th = null;
         string ConnString = "Server=172.16.10.109; Database=mstation; Port=3306; Uid=root; Pwd=1234qwer; convert zero datetime=True";
         string selectFormmgmt = "SELECT Dept_Code, TemplateCode FROM formmgmt;";
-        string folderName = "";
-        string newFolderName = "";
+        string folderName = @"C:\Mstation\data\temp\";
+        string newFolderName = @"C:\Mstation\data\dm\";
+        string backUpFolderName = @"C:\Mstation\data\backup\";
 
         public void Send()
         {
@@ -95,7 +94,7 @@ namespace SendProcess
                                 outputFile.WriteLine(params3);
                             }
                         }
-                        File.Move(savePath, savePath.Substring(0, savePath.Length - 5) + ".dm");    // 파일 다 쓰면 .lock 에서 .dm으로 변경 (unlock)
+                        File.Move(savePath, savePath.Substring(0, savePath.Length - 5) + ".dm", true);    // 파일 다 쓰면 .lock 에서 .dm으로 변경 (unlock)
 
                         // savePath를 파싱하여 table에 UPDATE될 파일이름 생성
                         string[] fName = savePath.Substring(0, savePath.Length - 5).Split(@"\"); // 확장자 .lock 빼기 -> \로 나누기
@@ -113,22 +112,28 @@ namespace SendProcess
                             cmdUpdate.ExecuteNonQuery();
                         }
                     }
-
-                    // .lock 파일에서  이동 + 확장자 변경 
-                    folderName = @"C:\Mstation\data\temp\";
-                    newFolderName = @"C:\Mstation\data\snd\";
+                    // backup으로 복사 (overwrite 가능)
                     directory = new DirectoryInfo(folderName);
-
                     foreach (FileInfo file in directory.GetFiles())
                     {
-                        if (file.Extension.ToLower().CompareTo(".lock") == 0)
+                        if (file.Extension.ToLower().CompareTo(".dm") == 0)
                         {
-                            string fileNameOnly = file.Name.Substring(0, file.Name.Length - 5) + ".snd";     // 확장자만 뺀 후 .snd로 교체
+                            string fileNameOnly = file.Name;
                             string fullFileName = file.FullName;
-                            File.Move(fullFileName, newFolderName + fileNameOnly);
+                            File.Copy(fullFileName, backUpFolderName + fileNameOnly, true);
                         }
                     }
-                    m_sqlcon.Close();
+
+                    //  temp폴더에 있는  .dm파일을 dm 폴더로 이동
+                    foreach (FileInfo file in directory.GetFiles())
+                    {
+                        if (file.Extension.ToLower().CompareTo(".dm") == 0)
+                        {
+                            string fileNameOnly = file.Name;
+                            string fullFileName = file.FullName;
+                            File.Move(fullFileName, newFolderName + fileNameOnly, true);
+                        }
+                    }
                 }
                 catch (Exception e)
                 {

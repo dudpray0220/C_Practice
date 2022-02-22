@@ -12,7 +12,6 @@ namespace Select_Write
 {
     public class SWDB
     {
-        MySqlConnection m_sqlcon = null;
         string ConnString = "Server=172.16.10.109; Database=mstation; Port=3306; Uid=root; Pwd=1234qwer; convert zero datetime=True";
         string folderName = @"C:\Mstation\data\temp\";
         string newFolderName = @"C:\Mstation\data\dm\";
@@ -93,18 +92,6 @@ namespace Select_Write
                     }
                     File.Move(savePath, savePath.Substring(0, savePath.Length - 5) + ".dm", true);    // 파일 다 쓰면 .lock 에서 .dm으로 변경 (unlock)
 
-                    // backup으로 복사 (overwrite 가능)
-                    directory = new DirectoryInfo(folderName);
-                    foreach (FileInfo file in directory.GetFiles())
-                    {
-                        if (file.Extension.ToLower().CompareTo(".dm") == 0)
-                        {
-                            string fileNameOnly = file.Name;
-                            string fullFileName = file.FullName;
-                            File.Copy(fullFileName, backUpFolderName + fileNameOnly, true);
-                        }
-                    }
-
                     // savePath를 파싱하여 table에 UPDATE될 파일이름 생성
                     string[] fName = savePath.Substring(0, savePath.Length - 5).Split(@"\"); // 확장자 .lock 빼기 -> \로 나누기
                     string tableFName = fName[fName.Length - 1];
@@ -118,6 +105,18 @@ namespace Select_Write
                     using (MySqlCommand cmdUpdate = new MySqlCommand(updateReserved, m_sqlcon))
                     {
                         cmdUpdate.ExecuteNonQuery();
+                    }
+
+                    // backup으로 복사 (overwrite 가능)
+                    directory = new DirectoryInfo(folderName);
+                    foreach (FileInfo file in directory.GetFiles())
+                    {
+                        if (file.Extension.ToLower().CompareTo(".dm") == 0)
+                        {
+                            string fileNameOnly = file.Name;
+                            string fullFileName = file.FullName;
+                            File.Copy(fullFileName, backUpFolderName + fileNameOnly, true);
+                        }
                     }
                     m_sqlcon.Close();
                 }

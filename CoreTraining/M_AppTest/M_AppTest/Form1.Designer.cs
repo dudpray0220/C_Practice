@@ -30,6 +30,7 @@
         {
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripFileWrite = new System.Windows.Forms.ToolStripLabel();
+            this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -55,7 +56,8 @@
             this.btn_Delete = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.textDatetime = new System.Windows.Forms.TextBox();
-            this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
+            this.label11 = new System.Windows.Forms.Label();
+            this.textDelPwd = new System.Windows.Forms.TextBox();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,6 +78,13 @@
             this.toolStripFileWrite.Size = new System.Drawing.Size(105, 22);
             this.toolStripFileWrite.Text = "File Write(ver.Test)";
             this.toolStripFileWrite.Click += new System.EventHandler(this.toolStripFileWrite_Click);
+            // 
+            // toolStripLabel1
+            // 
+            this.toolStripLabel1.Name = "toolStripLabel1";
+            this.toolStripLabel1.Size = new System.Drawing.Size(106, 22);
+            this.toolStripLabel1.Text = "File Write(ver.Real)";
+            this.toolStripLabel1.Click += new System.EventHandler(this.toolStripLabel1_Click);
             // 
             // label1
             // 
@@ -279,7 +288,7 @@
             this.btn_Delete.Name = "btn_Delete";
             this.btn_Delete.Size = new System.Drawing.Size(183, 23);
             this.btn_Delete.TabIndex = 5;
-            this.btn_Delete.Text = "MariaDB All Data Delete";
+            this.btn_Delete.Text = "Delete All MariaDB Data ";
             this.btn_Delete.UseVisualStyleBackColor = true;
             this.btn_Delete.Click += new System.EventHandler(this.btn_Delete_Click);
             // 
@@ -301,18 +310,29 @@
             this.textDatetime.Text = "0000-00-00 00:00:00";
             this.textDatetime.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // toolStripLabel1
+            // label11
             // 
-            this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(106, 22);
-            this.toolStripLabel1.Text = "File Write(ver.Real)";
-            this.toolStripLabel1.Click += new System.EventHandler(this.toolStripLabel1_Click);
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(285, 343);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(91, 15);
+            this.label11.TabIndex = 6;
+            this.label11.Text = "DeletePassword";
+            // 
+            // textDelPwd
+            // 
+            this.textDelPwd.Location = new System.Drawing.Point(386, 340);
+            this.textDelPwd.Name = "textDelPwd";
+            this.textDelPwd.Size = new System.Drawing.Size(158, 23);
+            this.textDelPwd.TabIndex = 7;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(805, 405);
+            this.Controls.Add(this.textDelPwd);
+            this.Controls.Add(this.label11);
             this.Controls.Add(this.btn_Delete);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.Btn_Insert);
@@ -378,5 +398,7 @@
         private System.Windows.Forms.Label label4;
         protected System.Windows.Forms.TextBox textDatetime;
         private System.Windows.Forms.ToolStripLabel toolStripLabel1;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.TextBox textDelPwd;
     }
 }

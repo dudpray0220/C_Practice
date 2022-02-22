@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
@@ -14,10 +15,11 @@ namespace DB_SelectTest2
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             string query = "SELECT Dept_Code, TemplateCode FROM formmgmt;";
             string ConnString = "Server=172.16.10.109; Database=mstation; Port=3306; Uid=root; Pwd=1234qwer; convert zero datetime=True";
+            Random random = new Random();
             MySqlConnection m_sqlcon = new MySqlConnection(ConnString);
             m_sqlcon.Open();
             try
@@ -91,7 +93,13 @@ namespace DB_SelectTest2
 
                     Console.WriteLine("\n행수: " + ds.Tables[0].Rows.Count);
                     Console.WriteLine("열수: " + ds.Tables[0].Columns.Count + "\n"); // 15
-                    string savePath = @"C:\Mstation\data\temp\00001_11001_20180725_3333_173020.lock";       // 파일 이름
+                    string savePath = String.Format(@"C:\Mstation\data\temp\0000{0}_{1}001_20180725_3333_17301{2}.lock", random.Next(0, 9), random.Next(10, 99), random.Next(0, 9));       // 파일 이름
+                    string ftpTempPath = String.Format(@"ftp://172.16.10.109/temp/0000{0}_{1}001_20180725_3333_17301{2}.lock", random.Next(0, 9), random.Next(10, 99), random.Next(0, 9));       // 파일 이름
+
+                    // FTP 통신
+                    FtpWebRequest req = (FtpWebRequest)WebRequest.Create(ftpTempPath);
+                    req.Method = WebRequestMethods.Ftp.UploadFile;
+                    req.Credentials = new NetworkCredential("tilon", "1234qwer");
 
                     // 컬럼값 담기 for문
                     for (int i = 0; i < ds.Tables[0].Columns.Count; i++)
@@ -127,6 +135,10 @@ namespace DB_SelectTest2
                             outputFile.WriteLine(params3);
                         }
                     }
+                    await using FileStream fileStream = File.Open(savePath, FileMode.Open, FileAccess.Read);       // 첫 경로 = FullPath
+                    await using Stream requestStream = req.GetRequestStream();
+                    await fileStream.CopyToAsync(requestStream);
+                    
 
                     //string str_params = string.Join(",", fields);  //string 배열을  하나의 string 변수로 만들어줍니다.  사이사이에 ','를 삽입해주면서
                     File.Move(savePath, savePath.Substring(0, savePath.Length - 5) + ".dm", true);    // 파일 다 쓰면 .lock 에서 .dm으로 변경 (unlock)

@@ -34,8 +34,9 @@ namespace FTP_Test
 
         private async void btn_FileSend_Click(object sender, EventArgs e)
         {
+            string tempPath = @"ftp://172.16.10.109/temp/";
             // WebRequest.Create로 Http,Ftp,File Request 객체를 모두 생성할 수 있다.
-            FtpWebRequest req = (FtpWebRequest)WebRequest.Create("ftp://172.16.10.109" + "/" + openFileDialog1.SafeFileName);
+            FtpWebRequest req = (FtpWebRequest)WebRequest.Create(tempPath + openFileDialog1.SafeFileName);
             // FTP 업로드한다는 것을 표시
             req.Method = WebRequestMethods.Ftp.UploadFile;
             // 쓰기 권한이 있는 FTP 사용자 로그인 지정
@@ -49,7 +50,7 @@ namespace FTP_Test
             //    await fileStream.CopyToAsync(requestStream);
             //}
 
-            await using FileStream fileStream = File.Open(textFileName.Text, FileMode.Open, FileAccess.Read);
+            await using FileStream fileStream = File.Open(textFileName.Text, FileMode.Open, FileAccess.Read);       // 첫 경로 = FullPath
             await using Stream requestStream = req.GetRequestStream();
             await fileStream.CopyToAsync(requestStream);
 

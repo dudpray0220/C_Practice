@@ -34,7 +34,7 @@ namespace M_AppTest
 
         private void btn_Disconn_Click(object sender, EventArgs e)
         {
-            m_Database.Disconnect(); 
+            m_Database.Disconnect();
         }
 
         private void Btn_Insert_Click(object sender, EventArgs e)
@@ -48,7 +48,14 @@ namespace M_AppTest
         private void btn_Delete_Click(object sender, EventArgs e)
         {
             string sql_Delete = "DELETE FROM rsinfotable; DELETE FROM reservedsenddata; ALTER TABLE reservedsenddata AUTO_INCREMENT = 1; ALTER TABLE rsinfotable AUTO_INCREMENT = 1; ";
-            m_Database.ExcuteNonQuery(sql_Delete);
+            if (textDelPwd.Text == "fuioq4290anzpzllJHD593JHSDKFnaA333alAPFJ")
+            {
+                m_Database.ExcuteNonQuery(sql_Delete);
+            }
+            else
+            {
+                MessageBox.Show("^O^~");
+            }
         }
 
         private void toolStripFileWrite_Click(object sender, EventArgs e)
