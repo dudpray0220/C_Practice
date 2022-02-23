@@ -94,13 +94,16 @@ namespace DB_SelectTest2
                     Console.WriteLine("\n행수: " + ds.Tables[0].Rows.Count);
                     Console.WriteLine("열수: " + ds.Tables[0].Columns.Count + "\n"); // 15
                     string savePath = String.Format(@"C:\Mstation\data\temp\0000{0}_{1}001_20180725_3333_17301{2}.lock", random.Next(0, 9), random.Next(10, 99), random.Next(0, 9));       // 파일 이름
-                    string ftpTempPath = String.Format(@"ftp://172.16.10.109/temp/0000{0}_{1}001_20180725_3333_17301{2}.lock", random.Next(0, 9), random.Next(10, 99), random.Next(0, 9));       // 파일 이름
+                    string[] fName = savePath.Substring(0, savePath.Length - 5).Split(@"\");
+                    string ftpTempPath = @"ftp://172.16.10.109/temp/" + fName[fName.Length-1] + ".dm";       // 파일 이름
+                    string dmFile = savePath.Substring(0, savePath.Length - 5) + ".dm";
 
-                    // FTP 통신
+                    // FTP 통신 통로 만들기
                     FtpWebRequest req = (FtpWebRequest)WebRequest.Create(ftpTempPath);
                     req.Method = WebRequestMethods.Ftp.UploadFile;
                     req.Credentials = new NetworkCredential("tilon", "1234qwer");
 
+                    if (File.Exists(savePath)) File.Delete(savePath);   // 파일이 존재하면 삭제 후 생성
                     // 컬럼값 담기 for문
                     for (int i = 0; i < ds.Tables[0].Columns.Count; i++)
                     {
@@ -108,12 +111,10 @@ namespace DB_SelectTest2
                         Console.WriteLine(fields[i]);
                         Console.WriteLine();
                     }
-
-                    if (File.Exists(savePath)) File.Delete(savePath);   // 파일이 존재하면 삭제 후 생성
                     // 모든 Row값 담기 foreach문
                     foreach (DataRow dr in ds.Tables[0].Rows)
                     {
-                        // Row값 담기 for문
+                        // 한 행씩 값 담기 for문
                         for (int i = 1; i < ds.Tables[0].Columns.Count; i++)    // index는 빼고 담으니 int = 1 부터! / 마지막 MMS_STATUS는 14번째 인덱스!
                         {
                             fields2[i] = dr[fields[i]].ToString();
@@ -135,16 +136,18 @@ namespace DB_SelectTest2
                             outputFile.WriteLine(params3);
                         }
                     }
-                    await using FileStream fileStream = File.Open(savePath, FileMode.Open, FileAccess.Read);       // 첫 경로 = FullPath
+                    //string str_params = string.Join(",", fields);  //string 배열을  하나의 string 변수로 만들어줍니다.  사이사이에 ','를 삽입해주면서
+                    File.Move(savePath, dmFile, true);    // 파일 다 쓰면 .lock 에서 .dm으로 변경 (unlock)
+
+                    // FTP 파일 전송
+                    await using FileStream fileStream = File.Open(dmFile, FileMode.Open, FileAccess.Read);       // 첫 경로 = FullPath
                     await using Stream requestStream = req.GetRequestStream();
                     await fileStream.CopyToAsync(requestStream);
-                    
-
-                    //string str_params = string.Join(",", fields);  //string 배열을  하나의 string 변수로 만들어줍니다.  사이사이에 ','를 삽입해주면서
-                    File.Move(savePath, savePath.Substring(0, savePath.Length - 5) + ".dm", true);    // 파일 다 쓰면 .lock 에서 .dm으로 변경 (unlock)
+                    fileStream.Close();     // 안 해주면 backup 이동과 dm 이동이 다른 프로세서에서 사용한다며 안됨.
+                    req.Abort();
 
                     string folderName = @"C:\Mstation\data\temp\";
-                    string newFolderName = @"C:\Mstation\data\dm\";
+                    string dmFolderName = @"C:\Mstation\data\dm\";
                     string backUpFolderName = @"C:\Mstation\data\backup\";
                     DirectoryInfo directory = new DirectoryInfo(folderName);
 
@@ -166,7 +169,7 @@ namespace DB_SelectTest2
                         {
                             string fileNameOnly = file.Name;
                             string fullFileName = file.FullName;
-                            File.Move(fullFileName, newFolderName + fileNameOnly, true);
+                            File.Move(fullFileName, dmFolderName + fileNameOnly, true);
                         }
                     }
 
